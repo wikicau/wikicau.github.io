@@ -1,6 +1,5 @@
 ---
 layout: post
-title: ""
-categories: Miscellaneous
+title: Download Suara Burung Murai Batu
+categories: [Suara Burung]
 ---
-Sometimes, your post just stands for itself and doesn't need a title. And that's fine, too!

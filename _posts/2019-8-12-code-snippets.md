@@ -46,4 +46,4 @@ Untuk memastikan suara Burung Gereja mana yang ingin anda download, silahkan kli
 
 Jika ada link download yang bermasalah atau file rusak, silahkan lapor ke Facebook Wikicau.
 
-'https://gitlab.com/wikicau/wikicau/raw/master/suara/burung%20gereja/download-suara-burung-gereja-by-Wikicau-1.mp3?'
+'https://gitlab.com/wikicau/wikicau/raw/master/suara/burung%20gereja/download-suara-burung-gereja-by-Wikicau-1.mp3'

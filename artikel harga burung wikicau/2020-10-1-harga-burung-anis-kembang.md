@@ -5,5 +5,4 @@ categories: [Harga Burung]
 ---
 
 | **Jenis Burung Anis** | **Harga** |
-| — |— |
 | Burung Anis Kembang Bahan | Rp. Sdas |

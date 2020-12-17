@@ -20,25 +20,25 @@ Download Suara Air Mengalir untuk Terapi Burung Macet Bunyi
 
 Jika anda ingin meminta kami untuk upload suara burung atau suara lainnya, bisa request ke [Facebook Wikicau](https://facebook.com/wikicau).
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/air/Suara-Air-Mengalir-untuk-Terapi-Burung-Macet-Bunyi-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2X0wH6X)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/air/Suara-Air-Mengalir-untuk-Terapi-Burung-Macet-Bunyi-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2XYzCtb)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/air/Suara-Air-Mengalir-untuk-Terapi-Burung-Macet-Bunyi-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2WXn9oi)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/air/Suara-Air-Mengalir-untuk-Terapi-Burung-Macet-Bunyi-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2WYDOaR)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/air/Suara-Air-Mengalir-untuk-Terapi-Burung-Macet-Bunyi-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2KvxS7Q)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/air/Suara-Air-Mengalir-untuk-Terapi-Burung-Macet-Bunyi-by-Wikicau.com-6.mp3" %}
 [Download](https://bit.ly/2L62v2V)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/air/Suara-Air-Mengalir-untuk-Terapi-Burung-Macet-Bunyi-by-Wikicau.com-7.mp3" %}
 [Download](https://bit.ly/2WYUWCr)
 
 ## Manfaat Suara Air Mengalir untuk Burung Kicau

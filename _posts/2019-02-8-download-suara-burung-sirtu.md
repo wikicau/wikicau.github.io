@@ -30,22 +30,22 @@ Jika ada file yang rusak (suaranya tidak jelas) atau link download yang tidak bi
 
 Semua laporan yang masuk akan di proses, sehingga Wikicau bisa menyediakan file suara mp3 yang lebih baik.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sirtu/Suara-Burung-Sirtu-Gacor-untuk-Pikat-dan-Masteran-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2MZjAyb)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sirtu/Suara-Burung-Sirtu-Gacor-untuk-Pikat-dan-Masteran-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/31Kfzku)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sirtu/Suara-Burung-Sirtu-Gacor-untuk-Pikat-dan-Masteran-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2Y5fghO)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sirtu/Suara-Burung-Sirtu-Gacor-untuk-Pikat-dan-Masteran-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2FqTyxz)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sirtu/Suara-Burung-Sirtu-Gacor-untuk-Pikat-dan-Masteran-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2X3giic)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sirtu/Suara-Burung-Sirtu-Gacor-untuk-Pikat-dan-Masteran-by-Wikicau.com-6.mp3" %}
 [Download](https://bit.ly/2N1jWo3)
 
 ## Cara Membedakan Burung Sirtu Jantan dan Sirtu Betina

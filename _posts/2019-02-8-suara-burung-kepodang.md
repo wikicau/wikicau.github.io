@@ -20,25 +20,25 @@ Jika anda ingin bertanya seputar Kepodang atau burung kicau lainnya, silahkan ma
 
 Admin akan jawab sebisa mungkin semua pertanyaan yang masuk.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kepodang/Suara-Burung-Kepodang-Gacor-Durasi-Panjang-untuk-Masteran-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2Iv8Va2)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kepodang/Suara-Burung-Kepodang-Gacor-Durasi-Panjang-untuk-Masteran-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2IwUSkz)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kepodang/Suara-Burung-Kepodang-Gacor-Durasi-Panjang-untuk-Masteran-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2Iw7sQT)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kepodang/Suara-Burung-Kepodang-Gacor-Durasi-Panjang-untuk-Masteran-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2ZF3NGd)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kepodang/Suara-Burung-Kepodang-Gacor-Durasi-Panjang-untuk-Masteran-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2N0VjHX)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kepodang/Suara-Burung-Kepodang-Gacor-Durasi-Panjang-untuk-Masteran-by-Wikicau.com-6.mp3" %}
 [Download](https://bit.ly/2IXkA0s)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kepodang/Suara-Burung-Kepodang-Gacor-Durasi-Panjang-untuk-Masteran-by-Wikicau.com-7.mp3" %}
 [Download](https://bit.ly/2WSpFME)
 
 ## Cara Merawat Burung Kepodang Biar Cepat Gacor

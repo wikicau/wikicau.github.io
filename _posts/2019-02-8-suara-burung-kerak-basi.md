@@ -20,19 +20,19 @@ Jika dirasa artikel ini membantu, jangan sungkan untuk membagikannya ke Facebook
 
 Jangan lupa juga tag [Wikicau](https://facebook.com/wikicau) di Facebook.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kerak%20basi/Suara-Burung-Kerak-Basi-untuk-Masteran-Durasi-Panjang-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2Iu7mt0)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kerak%20basi/Suara-Burung-Kerak-Basi-untuk-Masteran-Durasi-Panjang-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2J2zMta)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kerak%20basi/Suara-Burung-Kerak-Basi-untuk-Masteran-Durasi-Panjang-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2XtaH3S)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kerak%20basi/Suara-Burung-Kerak-Basi-untuk-Masteran-Durasi-Panjang-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2L59QzW)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kerak%20basi/Suara-Burung-Kerak-Basi-untuk-Masteran-Durasi-Panjang-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2N0M7U4)
 
 ## Sekilas Tentang Burung Kerak Basi

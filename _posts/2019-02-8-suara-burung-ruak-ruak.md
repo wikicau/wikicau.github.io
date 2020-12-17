@@ -18,13 +18,13 @@ Untuk Sobat Wikicau yang membutuhkan suara Burung Ruak-ruak untuk pikat, bisa do
 
 ## Download Suara Burung Ruak-ruak Pikat Mp3 Terbaru
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/ruak-ruak/Suara-Burung-Ruak-ruak-Pikat-Mp3-Terbaru-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2IuFDII)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/ruak-ruak/Suara-Burung-Ruak-ruak-Pikat-Mp3-Terbaru-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2L8PBB9)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/ruak-ruak/Suara-Burung-Ruak-ruak-Pikat-Mp3-Terbaru-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2L8PBB9)
 
 ## Tips Memikat Burung Ruak-ruak Menggunakan Suara Mp3

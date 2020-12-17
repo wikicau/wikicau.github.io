@@ -16,52 +16,52 @@ Nah, untuk Sobat Wikicau yang sedang mencari suara Burung Prenjak untuk masteran
 
 Jangan lupa laporkan ke [Wikicau](https://facebook.com/wikicau) jika ada link rusak atau file yang tidak bisa di download.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-by-Wikicau-5.mp3" %}
 [Download](https://bit.ly/2RrGZXy)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-by-Wikicau-4.mp3" %}
 [Download](https://bit.ly/2IXA7gY)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-by-Wikicau-3.mp3" %}
 [Download](https://bit.ly/31NMCEk)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-by-Wikicau-2.mp3" %}
 [Download](https://bit.ly/2XjShTl)
 
 ## Download Suara Burung Prenjak Lumut
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-Lumut-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2MZAT24)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-Lumut-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2IukuOJ)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-Lumut-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2FpkPjZ)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-Lumut-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2Y2tDne)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-Lumut-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2FrPNIm)
 
 ## Download Suara Burung Prenjak Sawah
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-Sawah-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2Xv3ccA)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-Sawah-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2WXEemL)
 
 ## Download Suara Burung Prenjak Pikatan
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-Sawah-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2ZDKWLS)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-Pikatan-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2IZAIyu)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/prenjak/Suara-Burung-Prenjak-by-Wikicau-1.mp3" %}
 [Download](https://bit.ly/31PXl0T)
 
 ## Jenis-jenis Burung Prenjak yang Bagus untuk Dipelihara

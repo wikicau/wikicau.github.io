@@ -22,13 +22,13 @@ Silahkan Sobat Wikicau dengarkan suara Burung Gelatik dibawah ini secara langsun
 
 Jangan lupa bagikan artikel ini ke Facebook untuk menunjukan dukungan kamu.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/gelatik/Suara_Burung_Gelatik_Batu_Gacor_Full_Isian_by_Wikicau.com_1.mp3" %}
 [Download](https://bit.ly/2YbVj9r)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/gelatik/Suara_Burung_Gelatik_Batu_Gacor_Full_Isian_by_Wikicau.com_2.mp3" %}
 [Download](https://bit.ly/2x9G8BI)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/gelatik/Suara_Burung_Gelatik_Batu_Gacor_Full_Isian_by_Wikicau.com_3.mp3" %}
 [Download](https://bit.ly/2Y5kZEk)
 
 ## Jenis-jenis Burung Gelatik

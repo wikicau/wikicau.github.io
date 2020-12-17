@@ -24,16 +24,16 @@ Gunakanlah file suara mp3 yang jelas dan bebas noise.
 
 Berikut ini Wikicau persembahkan kumpulan suara Burung Lovebird yang bisa anda dengarkan gratis atau di download.
 
-{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lovebird/Download-Suara-Burung-Lovebird-Ngekek-Panjang-by-Wikicau.com-1.mp3.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lovebird/Download-Suara-Burung-Lovebird-Ngekek-Panjang-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2J4SSPE)
 
-{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lovebird/Download-Suara-Burung-Lovebird-Ngekek-Panjang-by-Wikicau.com-2.mp3.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lovebird/Download-Suara-Burung-Lovebird-Ngekek-Panjang-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2RukXDr)
 
-{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lovebird/Download-Suara-Burung-Lovebird-Ngekek-Panjang-by-Wikicau.com-3.mp3.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lovebird/Download-Suara-Burung-Lovebird-Ngekek-Panjang-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2X38UmY)
 
-{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lovebird/Download-Suara-Burung-Lovebird-Ngekek-Panjang-by-Wikicau.com-4.mp3.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lovebird/Download-Suara-Burung-Lovebird-Ngekek-Panjang-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2J0hj0n)
 
 {% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lovebird/Download-Suara-Burung-Lovebird-Ngekek-Panjang-by-Wikicau.com-5.mp3" %}

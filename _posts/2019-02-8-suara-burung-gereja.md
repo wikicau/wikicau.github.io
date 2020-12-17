@@ -46,16 +46,16 @@ Untuk memastikan suara Burung Gereja mana yang ingin anda download, silahkan kli
 
 Jika ada link download yang bermasalah atau file rusak, silahkan lapor ke [Facebook Wikicau](https://facebook.com/wikicau).
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/burung%20gereja/download-suara-burung-gereja-by-Wikicau-1.mp3" %}
 [Download](https://bit.ly/2N1DBnC)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/burung%20gereja/download-suara-burung-gereja-by-Wikicau-2.mp3" %}
 [Download](https://bit.ly/2XqKR0s)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/burung%20gereja/download-suara-burung-gereja-by-Wikicau-3.mp3" %}
 [Download](https://bit.ly/2WXJqY6)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/burung%20gereja/download-suara-burung-gereja-by-Wikicau-4.mp3" %}
 [Download](https://bit.ly/2ZDtIxT)
 
 ## Tips Memelihara Burung Gereja untuk Masteran

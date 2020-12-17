@@ -22,19 +22,19 @@ Wikicau juga punya halaman di Facebook, jika anda menemukan adanya link yang tid
 
 Semua laporan akan kami tindak lanjuti, dan langsung diperbaiki.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kacer/Suara-Burung-Kacer-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2L7X1Vm)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kacer/Suara-Burung-Kacer-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2x57N6E)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kacer/Suara-Burung-Kacer-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2FpowGt)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kacer/Suara-Burung-Kacer-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2Xv3oIQ)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kacer/Suara-Burung-Kacer-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2WTOQDg)
 
 ## Tips Memilih Kacer yang Memiliki Prospek Bagus

@@ -28,16 +28,16 @@ Admin sangat berterima kasih jika anda mau melaporkan jika ada link atau file ya
 
 Pelaporan bisa melalui Fanspage Wikicau di [Facebook](https://facebook.com/wikicau).
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tledekan/Download-Suara-Burung-Tledekan-Gunung-by-Wikicau-1.mp3" %}
 [Download](https://bit.ly/2LeI307)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tledekan/Download-Suara-Burung-Tledekan-Gunung-by-Wikicau-2.mp3" %}
 [Download](https://bit.ly/31MiM2S)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tledekan/Download-Suara-Burung-Tledekan-Gunung-by-Wikicau-3.mp3" %}
 [Download](https://bit.ly/2Rupfe1)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tledekan/Download-Suara-Burung-Tledekan-Gunung-by-Wikicau-4.mp3" %}
 [Download](https://bit.ly/2FqKHvP)
 
 ## Download Suara Burung Tledekan Laut
@@ -46,13 +46,13 @@ Dan untuk anda yang sedang mencari suara Burung Tledekan Laut, file nya ada diba
 
 Silahkan di sedot:
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tledekan/Download-Suara-Burung-Tledekan-Laut-by-Wikicau-1.mp3" %}
 [Download](https://bit.ly/2Jckh2b)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tledekan/Download-Suara-Burung-Tledekan-Laut-by-Wikicau-2.mp3" %}
 [Download](https://bit.ly/2RwEXpk)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tledekan/Download-Suara-Burung-Tledekan-Laut-by-Wikicau-3.mp3" %}
 [Download](https://bit.ly/2WSHCuh)
 
 ## Cara Merawat Tledekan Gunung Agar Cepat Gacor

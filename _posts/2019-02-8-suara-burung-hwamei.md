@@ -14,22 +14,22 @@ Agar ia bisa lebih gacor dan rajin berkicau.
 
 ## Download Suara Burung Hwamei Wambi Gacor untuk Masteran
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/hwamei/Suara-Burung-Hwamei-Wambi-untuk-Masteran-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2N27gNM)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/hwamei/Suara-Burung-Hwamei-Wambi-untuk-Masteran-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2L5jgeI)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/hwamei/Suara-Burung-Hwamei-Wambi-untuk-Masteran-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2MZoQSh)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/hwamei/Suara-Burung-Hwamei-Wambi-untuk-Masteran-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2Rq9MvM)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/hwamei/Suara-Burung-Hwamei-Wambi-untuk-Masteran-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2WUvOwC)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/hwamei/Suara-Burung-Hwamei-Wambi-untuk-Masteran-by-Wikicau.com-6.mp3" %}
 [Download](https://bit.ly/2MZpEXj)
 
 ## Cara Merawat Burung Hwamei Agar Cepat Gacor

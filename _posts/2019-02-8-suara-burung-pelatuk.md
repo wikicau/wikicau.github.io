@@ -28,19 +28,19 @@ Atau jika perlu bisa di download agar bisa dimainkan saat tidak ada koneksi inte
 
 Jika anda mempunyai request suara burung apa lagi yang harus Wikicau upload, bisa sampaikan ke [Facebook kami](https://facebook.com/wikicau).
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pelatuk/Download-Suara-Burung-Pelatik-Mp3-Terbaru-dan-Lengkap-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2x5Ws6l)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pelatuk/Download-Suara-Burung-Pelatik-Mp3-Terbaru-dan-Lengkap-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2Ku0HRX)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pelatuk/Download-Suara-Burung-Pelatik-Mp3-Terbaru-dan-Lengkap-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2XvnyT6)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pelatuk/Download-Suara-Burung-Pelatik-Mp3-Terbaru-dan-Lengkap-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2L386XI)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pelatuk/Download-Suara-Burung-Pelatik-Mp3-Terbaru-dan-Lengkap-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2xaqea9)
 
 ## Cara Merawat Burung Pelatuk

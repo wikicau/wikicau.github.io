@@ -24,13 +24,13 @@ Suara burung bernama latin Locustella lanceolata ini dapat kamu dengarkan dibawa
 
 Jika ingin mengunduhnya, silahkan klik tombol “Download” agar dapat didengarkan secara offline dimana saja dan kapan saja.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kecici%20lurik/Download%20Suara%20Burung%20Kecici%20Lurik%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2VDYA2E)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kecici%20lurik/Download%20Suara%20Burung%20Kecici%20Lurik%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/2PEhhzh)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kecici%20lurik/Download%20Suara%20Burung%20Kecici%20Lurik%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/2PKjFF0)
 
 ## Kesimpulan

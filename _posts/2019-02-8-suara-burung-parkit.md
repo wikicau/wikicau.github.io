@@ -24,25 +24,25 @@ Semua suara dibawah ini bisa kamu dengarkan dan download secara gratis.
 
 Jangan sungkan untuk melapor ke [Facebook Wikicau](https://www.facebook.com/wikicau) jika ada link atau suara yang tidak bisa di download.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/parkit/Suara%20Burung%20Parkit%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2YRkfY4)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/parkit/Suara%20Burung%20Parkit%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/2ZdXTiZ)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/parkit/Suara%20Burung%20Parkit%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/2H5vZeI)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/parkit/Suara%20Burung%20Parkit%20by%20Wikicau.com%204.mp3" %}
 [Download](https://bit.ly/2OW6X7S)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/parkit/Suara%20Burung%20Parkit%20by%20Wikicau.com%205.mp3" %}
 [Download](https://bit.ly/2Z6Gjt1)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/parkit/Suara%20Burung%20Parkit%20by%20Wikicau.com%206.mp3" %}
 [Download](https://bit.ly/2z0MHY8)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/parkit/Suara%20Burung%20Parkit%20by%20Wikicau.com%207.mp3" %}
 [Download](https://bit.ly/2Z8dtIy)
 
 ## Jenis-jenis Burung Parkit yang Sering Dipelihara

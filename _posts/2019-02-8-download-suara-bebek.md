@@ -28,13 +28,13 @@ Jika Sobat Wikicau ingin mendengarkan suara bebek, maka bisa menggunakan file-fi
 
 Selain dapat didengarkan secara online, juga bisa kamu download untuk didengarkan offline.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/bebek/Suara%20Bebek%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2seLhcs)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/bebek/Suara%20Bebek%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/35bzpqc)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/bebek/Suara%20Bebek%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/2qETvdi)
 
 ## Makanan Bebek

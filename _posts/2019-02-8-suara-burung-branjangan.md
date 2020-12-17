@@ -32,22 +32,22 @@ Untuk memasternya, anda bisa menggunakan rekaman mp3 dibawah ini.
 
 Jika anda menemukan adanya broken link atau file yang corrupt, silahkan laporkan ke [Facebook Wikicau](https://facebook.com/wikicau).
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/branjangan/Suara-Burung-Branjangan-untuk-Masteran-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/31Q1FgD)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/branjangan/Suara-Burung-Branjangan-untuk-Masteran-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2ZAeCJC)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/branjangan/Suara-Burung-Branjangan-untuk-Masteran-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2IX8KUf)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/branjangan/Suara-Burung-Branjangan-untuk-Masteran-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2Iua7uu)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/branjangan/Suara-Burung-Branjangan-untuk-Masteran-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2J0SDES)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/branjangan/Suara-Burung-Branjangan-untuk-Masteran-by-Wikicau.com-6.mp3" %}
 [Download](https://bit.ly/2J0SDES)
 
 ## Tips Merawat Branjangan Biar Sehat dan Gacor

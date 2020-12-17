@@ -26,16 +26,16 @@ Untuk menjaga agar artikel ini tetap relevan, dimohon untuk kesediaan Sobat Wiki
 
 Anda bisa laporkan ke [Facebook Wikicau](https://facebook.com/wikicau).
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/trucukan/Suara-Burung-Trucukan-Ngerol-Panjang-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2Y4kSZE)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/trucukan/Suara-Burung-Trucukan-Ngerol-Panjang-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2MWBFwD)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/trucukan/Suara-Burung-Trucukan-Ngerol-Panjang-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2Iv3h83)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/trucukan/Suara-Burung-Trucukan-Ngerol-Panjang-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2FoS2vP)
 
 ## Cara Merawat Burung Trucukan Selama Di Master

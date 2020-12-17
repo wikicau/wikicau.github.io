@@ -26,25 +26,25 @@ Mungkin akan ada satu atau dua file dan link download yang rusak.
 
 Jika Sobat Wikicau menemukannya, silahkan laporkan [disini](https://www.facebook.com/wikicau/). Kami akan segera memperbaikinya.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cililin/Download-Suara-Cililin-Ngerol-Panjang-untuk-Masteran-by-Wikicau-1.mp3" %}
 [Download](https://bit.ly/2NbIPNE)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cililin/Download-Suara-Cililin-Ngerol-Panjang-untuk-Masteran-by-Wikicau-2.mp3" %}
 [Download](https://bit.ly/31PWkpB)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cililin/Download-Suara-Cililin-Ngerol-Panjang-untuk-Masteran-by-Wikicau-3.mp3" %}
 [Download](https://bit.ly/2WYrWFU)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cililin/Download-Suara-Cililin-Ngerol-Panjang-untuk-Masteran-by-Wikicau-4.mp3" %}
 [Download](https://bit.ly/2WX20dZ)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cililin/Download-Suara-Cililin-Ngerol-Panjang-untuk-Masteran-by-Wikicau-5.mp3" %}
 [Download](https://bit.ly/2ZDmp9s)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cililin/Download-Suara-Cililin-Ngerol-Panjang-untuk-Masteran-by-Wikicau-6.mp3" %}
 [Download](https://bit.ly/2N4CLXo)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cililin/Download-Suara-Cililin-Ngerol-Panjang-untuk-Masteran-by-Wikicau-7.mp3" %}
 [Download](https://bit.ly/2x7w5ga)
 
 ## Cara Merawat Cililin Agar Cepat Gacor

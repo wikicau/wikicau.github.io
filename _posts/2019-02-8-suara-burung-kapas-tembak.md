@@ -20,22 +20,22 @@ Dengan begitu, masteran yang anda lakukan berpotensi besar lebih berhasil.
 
 Jangan lupa bagikan artikel ini ke [Facebook](https://facebook.com/wikicau) ya, biar teman-teman anda juga bisa membacanya.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kapas%20tembak/Suara-Burung-Kapas-Tembak-Full-Isian-Mp3-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2XzlIkt)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kapas%20tembak/Suara-Burung-Kapas-Tembak-Full-Isian-Mp3-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2RBstNf)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kapas%20tembak/Suara-Burung-Kapas-Tembak-Full-Isian-Mp3-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2FpN6XB)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kapas%20tembak/Suara-Burung-Kapas-Tembak-Full-Isian-Mp3-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2FpN6XB)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kapas%20tembak/Suara-Burung-Kapas-Tembak-Full-Isian-Mp3-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2ZG4W03)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kapas%20tembak/Suara-Burung-Kapas-Tembak-Full-Isian-Mp3-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2xaTZaE)
 
 ## Perbedaan Kapas Tembak dan Cucak Jenggot

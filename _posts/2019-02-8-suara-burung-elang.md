@@ -23,19 +23,19 @@ Untuk Sobat Wikicau yang penasaran, bisa mendengarkan beberapa suara Burung Elan
 
 ## Download Suara Burung Elang
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/elang/Suara%20Burung%20Elang%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2XxlOEO)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/elang/Suara%20Burung%20Elang%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/2S0faGc)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/elang/Suara%20Burung%20Elang%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/2FYajAD)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/elang/Suara%20Burung%20Elang%20by%20Wikicau.com%204.mp3" %}
 [Download](https://bit.ly/32bu2Gn)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/elang/Suara%20Burung%20Elang%20by%20Wikicau.com%205.mp3" %}
 [Download](https://bit.ly/2JjX9A0)
 
 ## Cara Merawat Burung Elang

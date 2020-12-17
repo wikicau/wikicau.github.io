@@ -31,16 +31,16 @@ Jadi, tandai artikel ini di bookmark browser kamu ya agar mudah untuk dikunjungi
 
 Jangan lupa bagikan ke sosial media agar teman-teman kamu yang juga hobi burung kicau bisa mengetahui adanya artikel ini.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/paok/Download%20Suara%20Burung%20Paok%20Hijau%20by%20Wikicau.mp3" %}
 [Download](https://bit.ly/39GmbUL)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/paok/Download%20Suara%20Burung%20Paok%20Pancawarna%20Jinak%20by%20Wikicau.mp3" %}
 [Download](https://bit.ly/2ICNLpP)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/paok/Download%20Suara%20Burung%20Paok%20Pancawarna%20by%20Wikicau.mp3" %}
 [Download](https://bit.ly/2TDdHYG)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/paok/Download%20Suara%20Burung%20Paok%20Sayap%20Biru%20by%20Wikicau.mp3" %}
 [Download](https://bit.ly/2TJ92Vn)
 
 ## Habitat Asli Burung Paok Pancawarna

@@ -28,25 +28,25 @@ Dibawah ini total ada 7 file mp3 suara Burung Sanger yang bisa anda download ata
 
 Informasikan ke [Facebook Wikicau](https://facebook.com/wikicau) kalau ada yang tidak bisa di download, file rusak, atau kendala lainnya ya.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sanger/Download%20Suara%20Burung%20Sanger%20Gacor%20Juara%20untuk%20Masteran%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2ZffkzA)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sanger/Download%20Suara%20Burung%20Sanger%20Gacor%20Juara%20untuk%20Masteran%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/2HrON8b)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sanger/Download%20Suara%20Burung%20Sanger%20Gacor%20Juara%20untuk%20Masteran%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/2KRqXn3)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sanger/Download%20Suara%20Burung%20Sanger%20Gacor%20Juara%20untuk%20Masteran%20by%20Wikicau.com%204.mp3" %}
 [Download](https://bit.ly/2KRreX7)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sanger/Download%20Suara%20Burung%20Sanger%20Gacor%20Juara%20untuk%20Masteran%20by%20Wikicau.com%205.mp3" %}
 [Download](https://bit.ly/2Z9OswQ)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sanger/Download%20Suara%20Burung%20Sanger%20Gacor%20Juara%20untuk%20Masteran%20by%20Wikicau.com%206.mp3" %}
 [Download](https://bit.ly/2KRwMRh)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sanger/Download%20Suara%20Burung%20Sanger%20Gacor%20Juara%20untuk%20Masteran%20by%20Wikicau.com%207.mp3" %}
 [Download](https://bit.ly/2Mpo4No)
 
 ## Pasaran Harga Burung Sanger

@@ -20,16 +20,16 @@ Untuk anda yang penasaran dengan bagaimana suara Burung Gagak, bisa mendengarkan
 
 ## Download Suara Burung Gagak Mp3 untuk Masteran
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/gagak/Suara-Burung-Gagak-Mp3-untuk-Masteran-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/31OJh7N)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/gagak/Suara-Burung-Gagak-Mp3-untuk-Masteran-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2x7noCT)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/gagak/Suara-Burung-Gagak-Mp3-untuk-Masteran-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2IvVRkL)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/gagak/Suara-Burung-Gagak-Mp3-untuk-Masteran-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2Y6hhdQ)
 
 ## 2 Jenis Burung Gagak dan Perbedaannya

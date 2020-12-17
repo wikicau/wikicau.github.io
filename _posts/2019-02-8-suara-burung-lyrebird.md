@@ -18,22 +18,22 @@ Kalau tidak percaya, anda bisa mendengarkannya sendiri dibawah ini.
 
 ## Download Suara Burung Lyrebird
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lyrebird/Download%20Suara%20Burung%20Lyrebird%20gacor%20by%20Wikicau.com.mp3" %}
 [Download](https://bit.ly/2L07v8Q)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lyrebird/Download%20Suara%20Burung%20Lyrebird%20menirukan%20beragam%20jenis%20suara%20by%20Wikicau.com.mp3" %}
 [Download](https://bit.ly/2UcsRmo)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lyrebird/Download%20Suara%20Burung%20Lyrebird%20menirukan%20suara%20gergaji%20mesin%20by%20Wikicau.com.mp3" %}
 [Download](https://bit.ly/2ZpcuZx)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lyrebird/Download%20Suara%20Burung%20Lyrebird%20terbaik%20di%20dunia%20by%20Wikicau.com.mp3" %}
 [Download](https://bit.ly/2Zwz5CW)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lyrebird/Download%20Suara%20Burung%20Lyrebird%20untuk%20masteran%20by%20Wikicau.com.mp3" %}
 [Download](https://bit.ly/2Ua10U2)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/lyrebird/Download_Suara_Burung_Lyrebird_menirukan_suara_alarm_by_Wikicau.com.mp3" %}
 [Download](https://bit.ly/2Hx2HFV)
 
 ## Sekilas Tentang Burung Lyre

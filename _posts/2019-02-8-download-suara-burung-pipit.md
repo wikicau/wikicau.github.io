@@ -28,25 +28,25 @@ Sebelum mendownloadnya, ada baiknya dengarkan terlebih dahulu secara online deng
 
 Atau jika mau, kamu bisa langsung mendownloadnya satu persatu.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pipit/Download%20Suara%20Burung%20Pipit%20by%20Wikicau%201.mp3" %}
 [Download](https://bit.ly/2IBpNeL)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pipit/Download%20Suara%20Burung%20Pipit%20by%20Wikicau%202.mp3" %}
 [Download](https://bit.ly/338Wo4S)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pipit/Download%20Suara%20Burung%20Pipit%20by%20Wikicau%203.mp3" %}
 [Download](https://bit.ly/2xt6TEp)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pipit/Download%20Suara%20Burung%20Pipit%20by%20Wikicau%204.mp3" %}
 [Download](https://bit.ly/3cNPS85)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pipit/Download%20Suara%20Burung%20Pipit%20by%20Wikicau%205.mp3" %}
 [Download](https://bit.ly/2xo3whY)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pipit/Download%20Suara%20Burung%20Pipit%20by%20Wikicau%206.mp3" %}
 [Download](https://bit.ly/3cTwhmS)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pipit/Download%20Suara%20Burung%20Pipit%20by%20Wikicau%207.mp3" %}
 [Download](https://bit.ly/38HFOKA)
 
 ## Sekilas Tentang Burung Pipit

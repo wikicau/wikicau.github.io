@@ -20,16 +20,16 @@ Jangan sungkan untuk melaporkan ke Wikicau jika ada file suara yang tidak bisa d
 
 Anda bisa laporkan ke halaman Facebook Wikicau.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/rambatan/Download%20Suara%20Burung%20Rambatan%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2IwaLrh)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/rambatan/Download%20Suara%20Burung%20Rambatan%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/31KibyO)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/rambatan/Download%20Suara%20Burung%20Rambatan%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/2Ivp67j)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/rambatan/Download%20Suara%20Burung%20Rambatan%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/2Y4G4yH)
 
 ## Cara Merawat Burung Rambatan

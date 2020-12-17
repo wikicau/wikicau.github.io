@@ -18,16 +18,16 @@ Untuk mempermudah anda dalam memaster Burung Jalak Nias, anda bisa memanfaatkan 
 
 Jangan lupa untuk mengunjungi [Facebook Wikicau](https://facebook.com/wikicau) kalau ingin bertanya, memberikan saran, atau melaporkan adanya link dan file yang rusak.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20nias/Suara-Burung-Jalak-Nias-Juara-Untuk-Masteran-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2L6YSd4)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20nias/Suara-Burung-Jalak-Nias-Juara-Untuk-Masteran-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2Y0WtnL)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20nias/Suara-Burung-Jalak-Nias-Juara-Untuk-Masteran-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2ZDQtSA)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20nias/Suara-Burung-Jalak-Nias-Juara-Untuk-Masteran-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2XuAvwx)
 
 ## Tips Merawat Jalak Nias untuk Pemula

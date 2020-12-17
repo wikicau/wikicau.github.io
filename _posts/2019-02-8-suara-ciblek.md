@@ -18,30 +18,30 @@ Jika anda sedang mencari suara Burung Ciblek, maka beberapa suara mp3 dibawah in
 
 Jika ingin request suara mp3, melaporkan link rusak, bisa langsung menghubungi kami di [Facebook Wikicau](https://facebook.com/wikicau).
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/ciblek/Suara-Burung-Ciblek-Betina-Untuk-Pemikat-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2WYyvbr)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/ciblek/Suara-Burung-Ciblek-Betina-Untuk-Pemikat-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2ZxIMgs)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/ciblek/Suara-Burung-Ciblek-Betina-Untuk-Pemikat-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2Ivz3lm)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/ciblek/Suara-Ciblek-Kristal-Ngebren-Gacor-Mp3-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2XjTSIP)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/ciblek/Suara-Ciblek-Kristal-Ngebren-Gacor-Mp3-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2J3uX33)
 
 ### Download Suara Burung Ciblek Betina Untuk Pemikat
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/ciblek/Suara-Ciblek-Kristal-Ngebren-Gacor-Mp3-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/31PYHJ1)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/ciblek/Suara-Ciblek-Kristal-Ngebren-Gacor-Mp3-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2KrwEu0)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/ciblek/Suara-Ciblek-Kristal-Ngebren-Gacor-Mp3-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2WXXbAU)
 
 ### Perbedaan Ciblek Jantan dan Ciblek Betina

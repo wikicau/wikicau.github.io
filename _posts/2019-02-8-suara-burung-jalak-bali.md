@@ -18,22 +18,16 @@ Untuk anda yang ingin memaster JB agar cepat gacor, bisa menggunakan suara mp3 d
 
 ## Download Suara Burung Jalak Bali untuk Masteran Mp3
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20bali/Suara-Burung-Jalak-Bali-untuk-Masteran-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2FmJQfK)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20bali/Suara-Burung-Jalak-Bali-untuk-Masteran-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2WXjOWi)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20bali/Suara-Burung-Jalak-Bali-untuk-Masteran-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2FnxPXm)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
-[Download](https://bit.ly/2MZglqv)
-
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
-[Download](https://bit.ly/2MZglqv)
-
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20bali/Suara-Burung-Jalak-Bali-untuk-Masteran-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2MZglqv)
 
 ## Cara Membuat Jalak Bali Jadi Cepat Gacor

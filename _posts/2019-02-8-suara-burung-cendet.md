@@ -20,22 +20,22 @@ Semau file suara mp3 Cendet dibawah ini bisa anda download gratis, bisa juga did
 
 Laporkan ke [Facebook Wikicau](https://facebook.com/wikicau) jika ada link yang salah atau file rusak.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cendet/Suara-Burung-Cendet-Gacor-Durasi-Panjang-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2IXncvo)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cendet/Suara-Burung-Cendet-Gacor-Durasi-Panjang-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2N1aiBR)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cendet/Suara-Burung-Cendet-Gacor-Durasi-Panjang-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2ZGqFFw)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cendet/Suara-Burung-Cendet-Gacor-Durasi-Panjang-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2Y3coC5)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cendet/Suara-Burung-Cendet-Gacor-Durasi-Panjang-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2Y58bxK)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cendet/Suara-Burung-Cendet-Gacor-Durasi-Panjang-by-Wikicau.com-6.mp3" %}
 [Download](https://bit.ly/2Rt3Lya)
 
 ## Cara Memaster Cendet Bakalan Biar Cepat Gacor

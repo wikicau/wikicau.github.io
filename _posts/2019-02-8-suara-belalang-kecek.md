@@ -18,13 +18,13 @@ Untuk anda yang juga ingin menjadikan suara walang kecek sebagai masteran, bisa 
 
 ## Download Suara Belalang Kecek Mp3 untuk Masteran Burung
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/belalang%20kecek/Suara-Belalang-Kecek-Mp3-untuk-Masteran-Burung-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2Y59U6j)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/belalang%20kecek/Suara-Belalang-Kecek-Mp3-untuk-Masteran-Burung-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2x79pwH)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/belalang%20kecek/Suara-Belalang-Kecek-Mp3-untuk-Masteran-Burung-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2IxD3Sp)
 
 ## Makanan Alami Belalang Kecek

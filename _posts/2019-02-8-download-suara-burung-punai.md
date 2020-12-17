@@ -28,13 +28,13 @@ Untuk Sobat Wikicau yang membutuhkan file mp3 suara Burung Punai, bisa memanfaat
 
 Biasanya suara-suara ini sangat efektif untuk memancing Burung Punai agar berbunyi, atau bisa juga digunakan untuk memikat Punai liar.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/punai/Download%20Suara%20Burung%20Punai%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2TR9CPq)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/punai/Download%20Suara%20Burung%20Punai%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/2W39pLM)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/punai/Download%20Suara%20Burung%20Punai%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/3d0ZU66)
 
 ## Jenis-jenis Punai

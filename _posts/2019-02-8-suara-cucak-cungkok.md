@@ -18,13 +18,13 @@ Silahkan download dan bagikan suara Cucak Cungkok dibawah ini ke teman-teman and
 
 Jangan lupa dukung Wikicau dengan cara like Fanspage kami di Facebook.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cucak%20cungkok/Suara-Cucak-Cungkok-untuk-Masteran-Terbaru-Mp3-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2Kvdt2G)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cucak%20cungkok/Suara-Cucak-Cungkok-untuk-Masteran-Terbaru-Mp3-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2Y5bjK7)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cucak%20cungkok/Suara-Cucak-Cungkok-untuk-Masteran-Terbaru-Mp3-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2Kt5Zgv)
 
 ## Daerah Persebaran Cucak Cungkok

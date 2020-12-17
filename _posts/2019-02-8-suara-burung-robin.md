@@ -24,13 +24,13 @@ Jika menurut anda kumpulan suara Burung Robin dibawah ini berguna dan membantu, 
 
 Anda juga bisa mengikuti kami di [Facebook](https://facebook.com/wikicau)agar tidak ketinggalan update artikel terbaru.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/robin/Suara%20Burung%20Robin%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2KwxXrM)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/robin/Suara%20Burung%20Robin%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/2L4LMx3)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/robin/Suara%20Burung%20Robin%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/2Rs9LqX)
 
 ## Seputar Burung Robin

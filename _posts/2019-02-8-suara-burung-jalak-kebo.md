@@ -26,19 +26,19 @@ Dengan begitu teman-teman penghobi Jalak Kebo lainnya bisa menggunakan suara bur
 
 Silahkan kontak kami melalui Facebook.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20kebo/Download-Suara-Burung-Jalak-Kebo-Mp3-Untuk-Masteran-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2IZykI2)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20kebo/Download-Suara-Burung-Jalak-Kebo-Mp3-Untuk-Masteran-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2WRixjy)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20kebo/Download-Suara-Burung-Jalak-Kebo-Mp3-Untuk-Masteran-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2L6I3Px)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20kebo/Download-Suara-Burung-Jalak-Kebo-Mp3-Untuk-Masteran-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2MZuPqk)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20kebo/Download-Suara-Burung-Jalak-Kebo-Mp3-Untuk-Masteran-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2YbIqMB)
 
 ## Tips Memaster Burung Jalak Kebo

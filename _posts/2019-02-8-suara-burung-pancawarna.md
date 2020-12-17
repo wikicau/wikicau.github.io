@@ -18,13 +18,13 @@ Untuk Sobat Wikicau yang ingin memaster burung jagoannya menggunakan suara Burun
 
 ## Download Suara Burung Pancawarna untuk Masteran
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pancawarna/Suara%20Burung%20Pancawarna%20untuk%20Masteran%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2WVgi3z)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pancawarna/Suara%20Burung%20Pancawarna%20untuk%20Masteran%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/2L6Tgj5)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pancawarna/Suara%20Burung%20Pancawarna%20untuk%20Masteran%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/2Kwfxao)
 
 ## Kelebihan Menggunakan Suara Burung Pancawarna Sebagai Masteran

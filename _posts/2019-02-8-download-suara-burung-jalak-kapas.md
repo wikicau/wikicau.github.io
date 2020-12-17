@@ -30,10 +30,10 @@ Suaranya juga hampir tanpa jeda, jadi sangat bagus jika dijadikan sebagai salah 
 
 Langsung saja dengarkan melalui player dibawah ini, atau download jika diinginkan.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20kapas/Download%20Suara%20Burung%20Jalak%20Kapas%20by%20Wikicau%201.mp3" %}
 [Download](https://bit.ly/2TODdZO)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20kapas/Download%20Suara%20Burung%20Jalak%20Kapas%20by%20Wikicau%202.mp3" %}
 [Download](https://bit.ly/2TDRnhJ)
 
 ## Makanan Jalak Kapas

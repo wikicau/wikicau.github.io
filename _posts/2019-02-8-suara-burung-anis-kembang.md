@@ -18,16 +18,16 @@ Untuk anda yang saat ini membutuhkan suara AK untuk masteran, bisa mendengarkan 
 
 Jangan lupa dukung Wikicau dengan cara membagikan artikel ini ke [Facebook](https://facebook.com/wikicau) agar teman-teman anda bisa mengetahuinya.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/anis%20kembang/Suara%20Burung%20Anis%20Kembang%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2IzeJ2F)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/anis%20kembang/Suara%20Burung%20Anis%20Kembang%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/2ZzyTz5)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/anis%20kembang/Suara%20Burung%20Anis%20Kembang%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/31PnNrq)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/anis%20kembang/Suara%20Burung%20Anis%20Kembang%20by%20Wikicau.com%204.mp3" %}
 [Download](https://bit.ly/2N1xhgc)
 
 ## Perbedaan Anis Kembang Jantan dan Betina

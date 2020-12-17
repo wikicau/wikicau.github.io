@@ -20,16 +20,16 @@ Silahkan download mp3 untuk masteran Burung Tengkek udang dibawah ini.
 
 Jika ada link atau mp3 yang rusak, silahkan laporkan ke Fanspage Wikicau di [Facebook](https://facebook.com/wikicau).
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tengkek%20udang/Download-Suara-Burung-Tengkek-Udang-Mp3-Untuk-Masteran-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2L68nJr)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tengkek%20udang/Download-Suara-Burung-Tengkek-Udang-Mp3-Untuk-Masteran-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2FoS4Um)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tengkek%20udang/Download-Suara-Burung-Tengkek-Udang-Mp3-Untuk-Masteran-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2KsYczh)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tengkek%20udang/Download-Suara-Burung-Tengkek-Udang-Mp3-Untuk-Masteran-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2KsYczh)
 
 ## Cara Merawat Tengkek Udang Biar Gacor

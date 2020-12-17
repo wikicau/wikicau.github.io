@@ -22,16 +22,16 @@ Jika ada link yang tidak bisa di download atau file mp3 yang rusak, kami akan sa
 
 Kami akan segera memperbaikinya agar artikel ini tetap relevan dan dapat diandalkan.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20suren/Download-Suara-Burung-Jalak-Suren-Gacor-Full-Isian-jalak-suren-full-isian-by-Wikicau.com_.mp3" %}
 [Download](https://bit.ly/2FnpG5e)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20suren/Download-Suara-Burung-Jalak-Suren-Gacor-Full-Isian-jalak-suren-masteran-v1-by-Wikicau.com_.mp3" %}
 [Download](https://bit.ly/2IwAdgx)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20suren/Download-Suara-Burung-Jalak-Suren-Gacor-Full-Isian-jalak-suren-masteran-v2-by-Wikicau.com_.mp3" %}
 [Download](https://bit.ly/2KrsnXu)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/jalak%20suren/Download-Suara-Burung-Jalak-Suren-Gacor-Full-Isian-jalak-suren-tonggeret-jangkrik-by-Wikicau.com_.mp3" %}
 [Download](https://bit.ly/2IZvG5e)
 
 ## Tips Tambahan Merawat Jalak Suren Agar Cepat Gacor

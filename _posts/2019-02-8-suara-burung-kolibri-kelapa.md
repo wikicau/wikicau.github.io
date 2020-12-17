@@ -22,16 +22,16 @@ Kalau mau disimpan untuk offline, klik download.
 
 Hubungi Wikicau di Facebook jika ada pertanyaan atau masukan.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kolibri%20kelapa/Suara-Burung-Kolibri-Kelapa-untuk-Masteran-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2IxwFL2)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kolibri%20kelapa/Suara-Burung-Kolibri-Kelapa-untuk-Masteran-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2KyoLDc)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kolibri%20kelapa/Suara-Burung-Kolibri-Kelapa-untuk-Masteran-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2MWFzph)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kolibri%20kelapa/Suara-Burung-Kolibri-Kelapa-untuk-Masteran-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2IYbAYV)
 
 ## Perbedaan Kolibri Kelapa Jantan dan Betina

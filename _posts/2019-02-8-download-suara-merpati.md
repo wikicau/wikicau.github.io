@@ -32,10 +32,10 @@ Barang kali ada beberapa diantara Sobat Wikicau.com yang membutuhkannya untuk me
 
 ## Download Suara Burung Merpati
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/merpati/Suara%20Burung%20Merpati%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2TyyFGL)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/merpati/Suara%20Burung%20Merpati%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/2Z3bmWB)
 
 ## Cara Melatih Burung Merpati

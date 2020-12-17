@@ -18,13 +18,13 @@ Langsung saja dengarkan dibawah, atau kalau perlu download agar bisa didengarkan
 
 ## Download Suara Burung Mantenan
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/mantenan/Suara%20Burung%20Mantenan%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2Z7g36I)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/mantenan/Suara%20Burung%20Mantenan%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/2ZdMmjy)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/mantenan/Suara%20Burung%20Mantenan%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/2Zjpf7a)
 
 ## Makanan Terbaik untuk Burung Mantenan

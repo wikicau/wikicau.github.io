@@ -22,49 +22,49 @@ Semua suara Pelci mp3 dibawah ini bisa anda dengarkan secara online, atau bisa j
 
 Jika ada tombol download yang tidak bisa di klik atau ada file suara yang rusak, silahkan laporkan ke [Facebook Wikicau](https://facebook.com/wikicau).
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-1.mp3" %}
 [Download](https://bit.ly/2N1uVO6)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-10.mp3" %}
 [Download](https://bit.ly/2L4WiV6)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-11.mp3" %}
 [Download](https://bit.ly/2IuXhfx)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-12.mp3" %}
 [Download](https://bit.ly/2WYgwah)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-13.mp3" %}
 [Download](https://bit.ly/31P1TVu)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-14.mp3" %}
 [Download](https://bit.ly/2FoaHYT)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-15.mp3" %}
 [Download](https://bit.ly/2x6n0UX)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-2.mp3" %}
 [Download](https://bit.ly/2RrFoB2)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-3.mp3" %}
 [Download](https://bit.ly/2ZASJd9)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-4.mp3" %}
 [Download](https://bit.ly/2N4IrAA)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-5.mp3" %}
 [Download](https://bit.ly/2IvThLV)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-6.mp3" %}
 [Download](https://bit.ly/2xal0Lz)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-7.mp3" %}
 [Download](https://bit.ly/2J4UzN0)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-8.mp3" %}
 [Download](https://bit.ly/2KsdOTD)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/pleci/Download-Suara-Burung-Pleci-Gacor-Ngerol-Panjang-Mp3-by-Wikicau-9.mp3" %}
 [Download](https://bit.ly/2KsdOTD)
 
 ## Makanan Wajib untuk Pleci agar Gacor Ngalas

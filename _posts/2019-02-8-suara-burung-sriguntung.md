@@ -28,13 +28,13 @@ Omong-omong, anda bisa menghubungi Wikicau di [Facebook](https://facebook.com/wi
 
 Untuk memastikannya, silahkan coba putar dulu sebelum di download.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/blob/master/suara/srigunting/Suara-Burung-Srigunting-Gacor-untuk-Pikat-dan-Masteran-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2Xvl33a)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/srigunting/Suara-Burung-Srigunting-Gacor-untuk-Pikat-dan-Masteran-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2Y9MqNC)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/srigunting/Suara-Burung-Srigunting-Gacor-untuk-Pikat-dan-Masteran-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2L7ZFdK)
 
 ## Jenis-jenis Burung Srigunting yang Ada di Indonesia

@@ -34,25 +34,16 @@ Atau kalau mau disimpan untuk didengarkan offline, bisa langsung klik tombol dow
 
 Mohon kesediaannya untuk melapor ke [Facebook Wikicau](https://facebook.com/wikicau) jika ada link atau file yang rusak. Terima kasih.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kolibri%20ninja/Download-Suara-Burung-Kolibri-Ninja-Gacor-Full-Isian-by-Wikicau-1-kolibri_ninja_02.mp3" %}
 [Download](https://bit.ly/2x9zsn8)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kolibri%20ninja/Download-Suara-Burung-Kolibri-Ninja-Gacor-Full-Isian-by-Wikicau-2-kolibri_ninja_01.mp3" %}
 [Download](https://bit.ly/31KjptS)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kolibri%20ninja/Download-Suara-Burung-Kolibri-Ninja-Gacor-Full-Isian-by-Wikicau-3-kolibri_ninja_03.mp3" %}
 [Download](https://bit.ly/31K9hBo)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
-[Download](https://bit.ly/31OJzvu)
-
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
-[Download](https://bit.ly/31OJzvu)
-
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
-[Download](https://bit.ly/31OJzvu)
-
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kolibri%20ninja/Download-Suara-Burung-Kolibri-Ninja-Gacor-Full-Isian-by-Wikicau-6-Suara-Kolibri-Ninja-Betina.mp3" %}
 [Download](https://bit.ly/31OJzvu)
 
 ## Cara Merawat Kolibri Ninja Biar Cepat Gacor

@@ -33,13 +33,13 @@ Atau kalau mau, anda bisa memutarnya langsung dari website kamu.
 
 Silahkan lapor ke [Facebook Wikicau](https://facebook.com/wikicau) jika kesulitan dalam mendownload.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kutilang%20emas/Suara%20Kutilang%20Emas%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2MfDKCR)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kutilang%20emas/Suara%20Kutilang%20Emas%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/31C090M)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kutilang%20emas/Suara%20Kutilang%20Emas%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/2TyBgAv)
 
 ## Cara Merawat Burung Kutilang Emas

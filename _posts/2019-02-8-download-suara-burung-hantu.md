@@ -22,19 +22,19 @@ Untuk Sobat Wikicau.com yang penasaran dan belum pernah mendengar suara Burung H
 
 Bisa di play langsung, atau di download untuk didengarkan nanti.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/burung%20hantu/Suara-Burung-Hantu-Lengkap-dan-Terbaru-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2Kv7WJi)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/burung%20hantu/Suara-Burung-Hantu-Lengkap-dan-Terbaru-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2WYhgMy)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/burung%20hantu/Suara-Burung-Hantu-Lengkap-dan-Terbaru-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2N1NWzW)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/burung%20hantu/Suara-Burung-Hantu-Lengkap-dan-Terbaru-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2x7lzFV)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/burung%20hantu/Suara-Burung-Hantu-Lengkap-dan-Terbaru-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2ZGGwUp)
 
 ## Jenis-jenis Burung Hantu yang Populer di Dunia

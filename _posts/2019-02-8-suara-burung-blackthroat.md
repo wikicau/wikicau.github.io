@@ -26,22 +26,22 @@ Cukup download suara mp3 masteran Burung Blackthoat dibawah ini, lalu dengarkan 
 
 Jangan ragu untuk melaporkan ke kami melalui [Facebook](https://facebook.com/wikicau) jika ada link yang tidak bisa kamu download atau ada mp3 yang rusak.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/blackthroat/Suara-Burung-Blackthroat-Gacor-untuk-Masteran-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2WWw7Sy)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/blackthroat/Suara-Burung-Blackthroat-Gacor-untuk-Masteran-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2Y3aqSr)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/blackthroat/Suara-Burung-Blackthroat-Gacor-untuk-Masteran-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2L7fBx5)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/blackthroat/Suara-Burung-Blackthroat-Gacor-untuk-Masteran-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2ZHDwqX)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/blackthroat/Suara-Burung-Blackthroat-Gacor-untuk-Masteran-by-Wikicau.com-6.mp3" %}
 [Download](https://bit.ly/2N3BcZJ)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/blackthroat/Suara-Burung-Blackthroat-Gacor-untuk-Masteran-by-Wikicau.com-6.mp3" %}
 [Download](https://bit.ly/2N3BcZJ)
 
 ## Tips Memaster Burung Blackthoat Menggunakan Burung Asli

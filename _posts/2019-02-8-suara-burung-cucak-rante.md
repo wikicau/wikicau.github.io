@@ -26,25 +26,25 @@ Tidak hanya bisa didengarkan langsung secara online, Sobat Wikicau juga bisa men
 
 Caranya dengan langsung meng-klik tombol download dibawah masing-masing suara.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cucak%20rante/Suara%20Burung%20Cucak%20Rante%20untuk%20Masteran%20dan%20Pikat%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2L8PBB9)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cucak%20rante/Suara%20Burung%20Cucak%20Rante%20untuk%20Masteran%20dan%20Pikat%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/328WLvm)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cucak%20rante/Suara%20Burung%20Cucak%20Rante%20untuk%20Masteran%20dan%20Pikat%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/2YwRRpI)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cucak%20rante/Suara%20Burung%20Cucak%20Rante%20untuk%20Masteran%20dan%20Pikat%20by%20Wikicau.com%204.mp3" %}
 [Download](https://bit.ly/2Nwst2n)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cucak%20rante/Suara%20Burung%20Cucak%20Rante%20untuk%20Masteran%20dan%20Pikat%20by%20Wikicau.com%205.mp3" %}
 [Download](https://bit.ly/2Jl79b1)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cucak%20rante/Suara%20Burung%20Cucak%20Rante%20untuk%20Masteran%20dan%20Pikat%20by%20Wikicau.com%206.mp3" %}
 [Download](https://bit.ly/2FQZ3Wy)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cucak%20rante/Suara%20Burung%20Cucak%20Rante%20untuk%20Masteran%20dan%20Pikat%20by%20Wikicau.com%207.mp3" %}
 [Download](https://bit.ly/2Xp8jai)
 
 ## Cara Merawat Burung Cucak Rante

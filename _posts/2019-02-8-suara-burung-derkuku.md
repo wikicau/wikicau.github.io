@@ -22,25 +22,25 @@ Silahkan dengarkan langsung suara burung dibawah ini, atau jika ingin didengarka
 
 Klik tombol download yang ada dibawah setiap file suara.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/derkuku%20+%20tekukur/Suara-Burung-Derkuku-dan-Tekukur-Durasi-Panjang-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2IvRera)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/derkuku%20+%20tekukur/Suara-Burung-Derkuku-dan-Tekukur-Durasi-Panjang-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2Fpv8EN)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/derkuku%20+%20tekukur/Suara-Burung-Derkuku-dan-Tekukur-Durasi-Panjang-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2KvxwOy)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/derkuku%20+%20tekukur/Suara-Burung-Derkuku-dan-Tekukur-Durasi-Panjang-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2Y3kQkX)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/derkuku%20+%20tekukur/Suara-Burung-Derkuku-dan-Tekukur-Durasi-Panjang-by-Wikicau.com-5.mp3" %}
 [Download](https://bit.ly/2IuR3w0)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/derkuku%20+%20tekukur/Suara-Burung-Derkuku-dan-Tekukur-Durasi-Panjang-by-Wikicau.com-6.mp3" %}
 [Download](https://bit.ly/2Ksky3T)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/derkuku%20+%20tekukur/Suara-Burung-Derkuku-dan-Tekukur-Durasi-Panjang-by-Wikicau.com-7.mp3" %}
 [Download](https://bit.ly/2Kyqs3w)
 
 ## Cara Merawat Tekukur dan Derkuku Agar Rajin Bunyi

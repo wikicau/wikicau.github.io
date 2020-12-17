@@ -34,13 +34,13 @@ Suara-suara dibawah ini juga bisa anda gunakan untuk memaster burung lainnya.
 
 Jangan lupa share artikel ini agar teman-teman anda lainnya yang juga hobi burung kicau mengetahuinya.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cucak%20biru/Download%20Suara%20Burung%20Cucak%20Biru%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2ZerpoI)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cucak%20biru/Download%20Suara%20Burung%20Cucak%20Biru%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/2zb6PGY)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/cucak%20biru/Download%20Suara%20Burung%20Cucak%20Biru%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/33JqrAb)
 
 ## Kelebihan Burung Cucak Biru

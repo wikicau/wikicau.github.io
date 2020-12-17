@@ -22,16 +22,16 @@ Agar kami bisa selalu menghadirkan artikel-artikel berkualitas seputar burung ki
 
 Silahkan dengarkan secara online suara masteran Burung Samyong dibawah ini atau bisa juga di download.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/samyong/Suara-Burung-Samyong-Gacor-untuk-Masteran-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2KuLsYS)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/samyong/Suara-Burung-Samyong-Gacor-untuk-Masteran-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/2WY2PmA)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/samyong/Suara-Burung-Samyong-Gacor-untuk-Masteran-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/31MoD8m)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/samyong/Suara-Burung-Samyong-Gacor-untuk-Masteran-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2WX6BNh)
 
 ## Tips Sederhana Agar Burung Samyong Cepat Gacor

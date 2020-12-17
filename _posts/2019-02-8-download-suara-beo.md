@@ -28,16 +28,16 @@ Setelah dirasa cocok, klik tombol download dibawahnya.
 
 Wikicau juga akan sangat berterima kasih jika anda bersedia melaporkan ke Facebook jika ada link atau file yang rusak/tidak bisa di download.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/beo/Download-Suara-Burung-Beo-Gacor-Alami-dan-Bicara-by-Wikicau.com-1.mp3" %}
 [Download](https://bit.ly/2IvXKyb)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/beo/Download-Suara-Burung-Beo-Gacor-Alami-dan-Bicara-by-Wikicau.com-2.mp3" %}
 [Download](https://bit.ly/31MA3cq)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/beo/Download-Suara-Burung-Beo-Gacor-Alami-dan-Bicara-by-Wikicau.com-3.mp3" %}
 [Download](https://bit.ly/2Xqb8Mq)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/beo/Download-Suara-Burung-Beo-Gacor-Alami-dan-Bicara-by-Wikicau.com-4.mp3" %}
 [Download](https://bit.ly/2WYcWN3)
 
 ## Cara Agar Burung Beo Bisa Menirukan Suara Manusia

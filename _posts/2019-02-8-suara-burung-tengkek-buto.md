@@ -18,25 +18,25 @@ Bisa didengarkan langsung, atau di download untuk didengarkan secara offline.
 
 ## Download Suara Burung Tengkek Buto Bagus untuk Masteran
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tengkek%20buto/Suara%20Burung%20Tengkek%20Buto%20by%20Wikicau.com%201.mp3" %}
 [Download](https://bit.ly/2RsroXM)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tengkek%20buto/Suara%20Burung%20Tengkek%20Buto%20by%20Wikicau.com%202.mp3" %}
 [Download](https://bit.ly/2KwyBFI)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tengkek%20buto/Suara%20Burung%20Tengkek%20Buto%20by%20Wikicau.com%203.mp3" %}
 [Download](https://bit.ly/2L6PEOc)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tengkek%20buto/Suara%20Burung%20Tengkek%20Buto%20by%20Wikicau.com%204.mp3" %}
 [Download](https://bit.ly/2Fp24wZ)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tengkek%20buto/Suara%20Burung%20Tengkek%20Buto%20by%20Wikicau.com%205.mp3" %}
 [Download](https://bit.ly/2IvpGC1)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tengkek%20buto/Suara%20Burung%20Tengkek%20Buto%20by%20Wikicau.com%206.mp3" %}
 [Download](https://bit.ly/2L7PdCY)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/tengkek%20buto/Suara%20Burung%20Tengkek%20Buto%20by%20Wikicau.com%207.mp3" %}
 [Download](https://bit.ly/2x67usp)
 
 ## Cara Merawat Burung Tengkek Buto

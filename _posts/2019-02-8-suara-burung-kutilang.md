@@ -26,28 +26,28 @@ Jika ada link yang rusak dan file yang tidak bisa di download, silahkan laporkan
 
 Laporan anda akan segera kami tanggapi dengan langsung memperbaiki file dan link yang rusak.
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kutilang/Download-Suara-Burung-Kutilang-Mp3-Full-Isian-by-Wikicau-1.mp3" %}
 [Download](https://bit.ly/2NbUNXY)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kutilang/Download-Suara-Burung-Kutilang-Mp3-Full-Isian-by-Wikicau-2.mp3" %}
 [Download](https://bit.ly/2WV7hHL)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kutilang/Download-Suara-Burung-Kutilang-Mp3-Full-Isian-by-Wikicau-3.mp3" %}
 [Download](https://bit.ly/2Rr6lFb)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kutilang/Download-Suara-Burung-Kutilang-Mp3-Full-Isian-by-Wikicau-4.mp3" %}
 [Download](https://bit.ly/2WWgP5t)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kutilang/Download-Suara-Burung-Kutilang-Mp3-Full-Isian-by-Wikicau-5.mp3" %}
 [Download](https://bit.ly/2WVOas7)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kutilang/Download-Suara-Burung-Kutilang-Mp3-Full-Isian-by-Wikicau-6.mp3" %}
 [Download](https://bit.ly/2x80F9z)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kutilang/Download-Suara-Burung-Kutilang-Mp3-Full-Isian-by-Wikicau-7.mp3" %}
 [Download](https://bit.ly/2Rr6p7T)
 
-{% include embed-audio.html src="/assets/audio/<audio-source-name>.wav" %}
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/kutilang/Download-Suara-Burung-Kutilang-Mp3-Full-Isian-by-Wikicau-8.mp3" %}
 [Download](https://bit.ly/2IXchSk)
 
 ## Cara Merawat Kutilang Agar Suara Aslinya Hilang

@@ -140,7 +140,7 @@ table tr td :last-child {
 }
 
 #search-input {
-  width: 80%;
+  width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
@@ -295,7 +295,7 @@ p > img {
 }
 
 .site-info {
-  float: left;
+  float: center;
 
   @include mobile {
     float: none;
@@ -312,10 +312,10 @@ p > img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-  text-align: left;
+  text-align: center;
 
   @include mobile {
-    text-align: left;
+    text-align: center;
   }
 }
 

@@ -41,8 +41,8 @@ google_analytics: UA-125094882-2
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.wikicau.github.io/
-enforce_ssl: https://www.wikicau.github.io/
+url: http://www.wikicau.com/
+enforce_ssl: https://www.wikicau.com/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

@@ -9,6 +9,7 @@ layout: default
     <p class="author_title">{{site.author}}  ·  {{ page.date | date: "%B %e, %Y" }}</p>
     {% if page.last_modified_at %}
     <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
+    {% endif %}
     <div class="post-tags">
       {% if post %}
         {% assign categories = post.categories %}
@@ -20,8 +21,6 @@ layout: default
         {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </div>
-    {% endif %}
-
   </div>
   {% include header-ad.html %}  
   <div class="entry">

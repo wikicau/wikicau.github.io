@@ -295,10 +295,10 @@ p > img {
 }
 
 .site-info {
-  float: center;
+  float: left;
 
   @include mobile {
-    float: none;
+    float: center;
     display: block;
     margin: 0 auto;
   }
@@ -312,7 +312,7 @@ p > img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-  text-align: center;
+  text-align: left;
 
   @include mobile {
     text-align: center;

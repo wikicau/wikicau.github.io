@@ -4,6 +4,8 @@ title: "Download Suara Burung"
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-kacer.webp)
+
 Suara Burung Kacer memang sangat nikmat untuk didengarkan.
 
 Karenanya tidak heran kalau Kacer selalu ada di setiap perlombaan.

@@ -4,6 +4,8 @@ title: "Download Suara Burung Punai untuk Pikat"
 categories: [Suara Burung]
 ---
 
+![](/images/download-suara-burung-punai.webp)
+
 Ada banyak alasan mengapa seseorang memelihara burung.
 
 Ada yang bertujuan agar dapat mendengarkan suara kicauan indahnya, ada juga yang bertujuan untuk menikmati keindahan fisiknya.

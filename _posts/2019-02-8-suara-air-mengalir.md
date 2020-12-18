@@ -4,6 +4,8 @@ title: "Download Suara Air Mengalir untuk Terapi Burung Kicau"
 categories: [Suara Burung]
 ---
 
+![](/images/suara-air-mengalir.webp)
+
 Dalam pemeliharaan burung kicau, terutama untuk lomba, tidak cukup dengan memperdengarkan suara burung yang sudah gacor.
 
 Tapi juga perlu dibarengi dengan memperdengarkan burung anda suara air mengalir.

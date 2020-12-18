@@ -4,6 +4,8 @@ title: Download Suara Burung Kolibri Ninja
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-kolibri-ninja.webp)
+
 Suara Burung Kolibri Ninja dikenal memiliki lengkingan yang panjang dan bagus untuk didengar.
 
 Jika anda sudah lama menekuni hobi burung kicau, tentu anda sudah tidak asing lagi dengan burung kecil yang satu ini.

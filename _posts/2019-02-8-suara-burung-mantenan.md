@@ -4,6 +4,8 @@ title: Download Suara Burung Mantenan
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-mantenan.webp)
+
 Halo Sobat Wikicau. Kali ini saya akan membagikan file suara Burung Mantenan.
 
 Burung ini biasanya memang sering dijadikan masteran untuk burung lainnya daripada dipelihara untuk lomba atau klangenan.

@@ -4,6 +4,8 @@ title: Download Suara Burung Lyrebird
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-lyrebird.webp)
+
 Untuk Sobat Wikicau yang ada di Indonesia, mungkin kurang familiar dengan jenis burung satu ini, yaitu Lyrebird.
 
 Lyrebird (Menura novaehollandiae) merupakan burung endemik Australia yang terkenal dengan kemampuan menirukan segala macam jenis suara.

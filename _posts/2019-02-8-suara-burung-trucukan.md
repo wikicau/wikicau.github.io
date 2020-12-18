@@ -4,6 +4,8 @@ title: Download Suara Burung Trucukan
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-trucukan.webp)
+
 Burung Trucukan memang tidak sepopuler [Jalak Suren](https://wikicau.com/suara-burung-jalak-suren/), Murai Batu dan Lovebird.
 
 Namun burung ini tetap dipelihara oleh sebagian orang.

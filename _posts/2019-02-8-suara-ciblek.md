@@ -4,6 +4,8 @@ title: Download Suara Burung Ciblek
 categories: [Suara Burung]
 ---
 
+![](/images/suara-ciblek.webp)
+
 Ciblek adalah burung kicau berbadan mungil. Secara kasat mata, ukurannya seperti Burung Kenari.
 
 Burung Ciblek juga dikenal sebagai burung dengan tembakan yang cepat.

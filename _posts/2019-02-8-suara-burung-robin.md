@@ -4,6 +4,8 @@ title: Download Suara Burung Robin
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-robin.webp)
+
 Walaupun memiliki ukuran tubuh yang mungil, suara Burung Robin tidak kalah merdu dan lantang seperti Ciblek, Kerak Basi, dan juga Sikatan Londo.
 
 Burung dengan nama latin Erithacus rubecula ini awalnya berasal dari negara Cina.

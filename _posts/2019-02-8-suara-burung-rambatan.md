@@ -4,6 +4,8 @@ title: Download Suara Burung Rambatan
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-rambatan.webp)
+
 Suara Burung Rambatan sangat cocok digunakan untuk memaster burung-burung dengan karakteristik suara nembak.
 
 Contohnya [Lovebird](https://wikicau.com/suara-lovebird/), [Jalak Suren](https://wikicau.com/?s=jalak+suren), [Kacer](https://wikicau.com/?s=kacer), hingga [Murai Batu](https://wikicau.com/?s=murai+batu).

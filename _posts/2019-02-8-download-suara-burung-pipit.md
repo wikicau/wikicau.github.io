@@ -4,6 +4,8 @@ title: "Download Suara Burung Pipit Gacor Mp3"
 categories: [Suara Burung]
 ---
 
+![](/images/download-suara-burung-pipit.webp)
+
 Sekilas, penampilan Burung Pipit terlihat mirip seperti Burung Gereja, karena memang keduanya masih berada dalam satu ordo.
 
 Di alam liar, Burun Pipit sering terlihat di daerah persawahan, karena burung kecil ini suka sekali memakan biji-bijian seperti padi.

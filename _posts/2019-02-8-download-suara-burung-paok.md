@@ -4,6 +4,8 @@ title: "Download Suara Burung Paok Gacor Mp3"
 categories: [Suara Burung]
 ---
 
+![](/images/download-suara-burung-paok.webp)
+
 Burung Paok Pancawarna atau sering disebut juga dengan Burung Paok saja memiliki 5 macam warna di bulunya.
 
 Warna-warna tersebut terdiri dari hitam, coklat, merah, biru, dan jingga.

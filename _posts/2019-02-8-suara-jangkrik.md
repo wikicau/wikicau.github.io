@@ -4,6 +4,8 @@ title: Download Suara Jangkrik
 categories: [Suara Burung]
 ---
 
+![](/images/suara-jangkrik.webp)
+
 Bagi sebagian orang, suara jangkrik dirasa mengganggu.
 
 Terutama karena mereka berbunyi di malam hari dimana orang-orang akan bersiap tidur.

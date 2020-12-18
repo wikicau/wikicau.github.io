@@ -4,6 +4,8 @@ title:  Download Suara Burung Tengkek Udang
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-tengkek-udang.webp)
+
 Suara Burung Raja Udang atau yang sering disebut juga Tengkek Udang ini sangat nyaring dan rapat.
 
 Karenanya tidak heran kalau suara mereka sering dijadikan masteran untuk burung lomba, mulai dari [Murai Batu](https://wikicau.com/suara-murai-batu/), [Jalak Suren](https://wikicau.com/suara-burung-jalak-suren/), hingga [Kacer](https://wikicau.com/harga-burung-kacer/).

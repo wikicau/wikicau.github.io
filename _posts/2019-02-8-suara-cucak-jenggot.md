@@ -4,6 +4,8 @@ title: Download Suara Burung Cucak Jenggot
 categories: [Suara Burung]
 ---
 
+![](/images/suara-cucak-jenggot.webp)
+
 Suara Cucak Jenggot cukup unik jika dibandingkan dengan suara burung kicau lainnya.
 
 Salah satu karakteristik suara Cucak Jenggot adalah suara besetannya.

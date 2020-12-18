@@ -4,6 +4,8 @@ title: "Download Suara Burung Merpati atau Dara"
 categories: [Suara Burung]
 ---
 
+![](/images/download-suara-merpati.webp)
+
 Burung Merpati termasuk salah satu jenis burung yang paling populer di Indonesia.
 
 Burung ini bukan termasuk burung kicau, melainkan burung yang dipelihara sebagai burung hias dan juga lomba balap.

@@ -4,6 +4,8 @@ title: Download Suara Burung Parkit
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-parkit.webp)
+
 Burung Parkit memang tidak begitu populer untuk dijadikan burung kicauan.
 
 Karena memang burung ini sejatinya adalah burung hias.

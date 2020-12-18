@@ -4,6 +4,8 @@ title: Download Suara Burung Cucak Biru
 categories: [Suara Burung]
 ---
 
+![](/images/suara-cucak-biru.webp)
+
 Kali ini Wikicau akan membagikan suara masteran Burung Cucak Biru.
 
 Burung yang satu ini kalau boleh jujur, tidak begitu populer jika dibandingkan dengan Cucak-cucakan lainnya, entah itu Cucak Ijo, Cucak Jenggot dan juga [Cucak Rawa](https://wikicau.com/suara-cucak-rowo/).

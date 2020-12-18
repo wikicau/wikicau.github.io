@@ -4,6 +4,8 @@ title: Download Suara Burung Tengkek Buto
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-tengkek-buto.webp)
+
 Tengkek Buto merupakan salah satu jenis burung kicau yang suaranya sering dijadikan masteran untuk burung lainnya.
 
 Para pemilik [Jalak Suren](https://wikicau.com/suara-burung-jalak-suren/), Kacer, hingga Murai Batu sering memaster burungnya dengan suara Tengkek Buto.

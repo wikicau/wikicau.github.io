@@ -4,6 +4,8 @@ title: "Download Suara Burung Cendet Gacor untuk Masteran"
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-cendet.webp)
+
 Halo, Sobat Wikicau.
 
 Kali ini Wikicau akan kembali memagikan mp3 [suara burung](https://wikicau.com/tag/suara-burung/) yang bisa digunakan untuk memaster burung kicau kesayangan anda.

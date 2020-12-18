@@ -4,6 +4,8 @@ title: Download Suara Burung Pleci
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-pleci.webp)
+
 Suara Burung Pleci terkenal khas dibandingkan burung kicau lainnya.
 
 Ciri khas tersebut adalah suara nembaknya.

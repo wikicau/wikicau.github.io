@@ -4,6 +4,8 @@ title: Download Suara Burung Jalak Kebo Durasi Panjang
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-jalak-kebo.webp)
+
 Suara Burung Jalak Kebo cukup unik dibandingkan dengan suara burung kicau lainnya.
 
 Selain suaranya nyaring, Jalak Kebo juga terkenal sebagai salah satu burung yang pandai menirukan suara burung lainnya.

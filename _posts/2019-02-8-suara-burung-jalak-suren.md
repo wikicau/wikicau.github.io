@@ -4,6 +4,8 @@ title:  Download Suara Burung Jalak Suren Full Isian
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-jalak-suren.webp)
+
 Suara Burung Jalak Suren terkenal memiliki berbagai macam variasi yang unik dan bagus.
 
 Jalak Suren juga dikenal sebagai burung kicau yang mampu menirukan beragam suara burung lain.

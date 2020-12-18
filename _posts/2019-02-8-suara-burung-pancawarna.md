@@ -4,6 +4,8 @@ title: Download Suara Burung Pancawarna
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-pancawarna.webp)
+
 Suara Burung Pancawarna sudah lama dipercaya oleh kicaumania di Indonesia untuk memaster burung kicau lainnya.
 
 Pancawarna sendiri termasuk burung endemik Indonesia dengan ciri khas berupa bulu berwarna-warni.

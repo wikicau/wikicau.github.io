@@ -4,6 +4,8 @@ title: Download Suara Burung Tledekan
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-tledekan.webp)
+
 Dari hari ke hari jumlah orang yang menekuni hobi burung kicau kian meningkat.
 
 Hal ini membuat perputaran uang di bisnis ini juga makin tinggi.

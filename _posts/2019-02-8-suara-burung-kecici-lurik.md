@@ -4,6 +4,8 @@ title: Download Suara Burung Kecici Lurik
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-kecici-lurik.webp)
+
 Setiap burung kicau memiliki karakteristik suara yang berbeda-beda.
 
 Ada burung yang memiliki suara cepat seperti [Burung Gereja](https://wikicau.com/suara-burung-gereja/), kicau bervariasi seperti [Burung Murai Batu](https://wikicau.com/tips-membuat-burung-murai-batu-rajin-berbunyi/), bahkan ada burung yang bisa meniru suara manusia seperti [Burung Beo](https://wikicau.com/download-suara-beo/).

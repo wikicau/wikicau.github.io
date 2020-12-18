@@ -4,6 +4,8 @@ title: Download Suara Burung Poksay
 categories: [Suara Burung]
 ---
 
+![](/images/suara-poksay-hongkong.webp)
+
 Halo, Sobat Wikicau.
 
 Kali ini Wikicau akan membagikan beberapa file mp3 suara Poksay Hongkong.

@@ -4,6 +4,8 @@ title: Download Suara Burung Prenjak
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-prenjak.webp)
+
 Burung Prenjak adalah burung yang tidak pernah sepi peminatnya.
 
 Karena burung ini memang memiliki suara yang unik dibandingkan dengan burung lainnya, terutama suara tembakannya itu.

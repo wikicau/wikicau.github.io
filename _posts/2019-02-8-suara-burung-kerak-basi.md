@@ -4,6 +4,8 @@ title: Download Suara Burung Kerak Basi
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-kerak-basi.webp)
+
 Jika dibandingkan dengan ukuran tubuhnya, suara Burung Kerak Basi bisa dibilang lantang dan keras.
 
 Karakter suaranya mengingatkan kita pada burung Prenjak dan Ciblek, kecil-kecil cabe rawit.

@@ -4,6 +4,8 @@ title: Download Suara Burung Kutilang
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-kutilang.webp)
+
 Burung Kutilang saat ini semakin diminati oleh para penghobi burung kicau di Indonesia.
 
 Memang awalnya burung ini sempat “dibenci” oleh para pemilik burung kicau lain, terutama mereka yang katrok.

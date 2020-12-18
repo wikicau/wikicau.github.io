@@ -4,6 +4,8 @@ title: "Download Suara Burung Derkuku untuk Pikat"
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-derkuku.webp)
+
 Halo Sobat Wikicau semua.
 
 Di artikel kali ini saya ingin berbagi suara Burung Derkuku dan Tekukur.

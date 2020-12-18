@@ -4,6 +4,8 @@ title: "Download Suara Burung Anis Kembang Mp3"
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-anis-kembang.webp)
+
 Anis Kembang merupakan salah satu jenis Anis yang cukup populer dikalangan kicau mania di Indonesia.
 
 Suaranya memang merdu dan indah untuk didengarkan, tidak heran selain dipelihara sebagai klangenan, Anis Kembang juga sering digunakan untuk masteran.

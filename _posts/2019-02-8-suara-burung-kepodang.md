@@ -4,6 +4,8 @@ title: Download Suara Burung Kepodang
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-kepodang.webp)
+
 Burung Kepodang memiliki ciri fisik yang cukup mudah untuk dikenali.
 
 Memiliki perpaduan bulu kuning dan hitam, Kepodang semakin cantik dengan paruhnya yang berwarna coklat muda.

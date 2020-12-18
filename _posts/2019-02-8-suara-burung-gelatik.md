@@ -4,6 +4,8 @@ title: "Download Suara Burung Gelatik Mp3 untuk Masteran"
 categories: [Suara Burung]
 ---
 
+![](/images/suara-burung-gelatik.webp)
+
 Burung Gelatik termasuk ke dalam burung kicau dengan ukuran tubuh yang kecil.
 
 Ukuran tubuh dewasanya rata-rata tidak lebih dari 15 cm.

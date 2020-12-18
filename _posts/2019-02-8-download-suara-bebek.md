@@ -4,6 +4,8 @@ title: "Download Suara Bebek"
 categories: [Suara Burung]
 ---
 
+![](/images/download-suara-bebek.webp)
+
 Bebek atau yang biasa dikenal dengan nama itik merupakan unggas yang termasuk dalam keluarga Anatidae.
 
 Bebek menghabiskan sebagian besar waktunya di air untuk berendam, minum, mencari makan, dan berkoloni.

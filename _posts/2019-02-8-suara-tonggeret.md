@@ -4,6 +4,8 @@ title: Download Suara Tonggeret
 categories: [Suara Burung]
 ---
 
+![](/images/suara-tonggeret.webp)
+
 Tonggeret merupakan serangga yang unik.
 
 Walaupun ukurannya kecil, namun suaranya sangat keras dan unik.

@@ -4,6 +4,8 @@ title: Download Suara Burung Sikatan Londo
 categories: [Suara Burung]
 ---
 
+![](/images/suara-sikatan-londo.webp)
+
 Salah satu ciri Sikatan Londo yang paling terkenal adalah selalu mengembangkan ekornya ketika berkicau.
 
 Namun sayangnya, burung bersuara merdu ini kini sudah semakin sulit ditemui.

@@ -4,6 +4,8 @@ title: "Download Suara Burung Jalak Kapas untuk Masteran"
 categories: [Suara Burung]
 ---
 
+![](/images/download-suara-burung-jalak-kapas.webp)
+
 Jalak merupakan salah satu jenis burung kicau yang paling populer di Indonesia.
 
 Burung ini memiliki berbagai macam jenis yang berbeda-beda.

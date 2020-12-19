@@ -1,6 +1,7 @@
 ---
 layout: ampstory
 title: Space Colony Art from the 1970s
+permalink: /ampstory/fakta/
 cover:
    title: Amazing Space Colony Art from the 1970s
    subtitle: Found via placesjournal

@@ -28,23 +28,11 @@ kramdown:
 sass:
   style: :expanded # You might prefer to minify using :compressed
 plugins:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-sitemap
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
 include: ['_pages']
-collections:
-  category:
-    output: true
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: category
-    values:
-      layout: "category"
-
 paginate: 10
 paginate_path: /page:num/
 exclude:

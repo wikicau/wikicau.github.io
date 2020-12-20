@@ -26,7 +26,7 @@ kramdown:
   syntax_highlighter_opts:
     css_class: 'highlight'
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed
 plugins:
   - jekyll-sitemap
   - jekyll-feed

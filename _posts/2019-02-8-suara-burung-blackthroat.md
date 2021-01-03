@@ -12,7 +12,7 @@ Pertama yaitu dengan menggunakan burung asli yang sudah gacor, dan kedua adalah 
 
 Masing-masing cara tentu memiliki kelebihan dan kekurangan.
 
-Cara pertama misalnya, tidak semua orang bisa melakukannya karena harus punya dua atau lebih Burung Blackthoat.
+Cara pertama misalnya, tidak semua orang bisa melakukannya karena harus punya dua atau lebih Burung Blackthroat.
 
 Untuk anda yang terkendala biaya, cara ini tentu tidak bisa dilakukan.
 

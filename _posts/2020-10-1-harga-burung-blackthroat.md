@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daftar Harga Burung Blackthoat Bulan Ini"
+title: "Daftar Harga Burung Blackthroat Bulan Ini"
 categories: [Harga Burung]
 ---
 

@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Poksay Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-poksay.webp)
+
 Bururng Poksay merupakan salah satu jenis burung kicau yang cukup memiliki banyak peminat dikalangan pecinta burung kicau.
 
 Burung ini merupakan burung kicau yang keberadaannya sudah cukup langka, apalagi dengan beberapa jenisnya seperti burung Poksay Hongkong.

@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Cucak Jenggot Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![Daftar Harga Burung Cucak Jenggot Bulan ini](/images/harga-cucak-jenggot.webp)
+
 Cucak Jenggot walaupun tidak sepopuler Jalak Suren atau Murai Batu, namun tetap memiliki tempat tersendiri dikalangan kicau mania Indonesia.
 
 Salah satu yang disukai dari Cucak Jenggot adalah suara nyerecetnya.

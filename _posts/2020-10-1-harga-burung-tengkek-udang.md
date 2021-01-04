@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Tengkek Udang Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![Daftar Harga Burung Tengkek Udang Bulan Ini](/images/harga-burung-tengkek-udang.webp)
+
 Burung Tengkek Udang memiliki warna tubuh yang sangat menawan, burung ini memiliki warna orange pada bagian tubuh bawah dan warna biru dengan sayap berwarna jingga.
 
 Paruhnya yang panjang berwarna hitam dan kakinya berwarna orange, kobinasi itu membuat burung yang satu ini sangat terlihat menarik.

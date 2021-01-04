@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Hantu Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-hantu.webp)
+
 Burung Hantu awalnya tidak begitu populer sebagai hewan peliharaan.
 
 Karena bagi sebagian orang, tampilan fisik burung ini sangat menyeramkan.

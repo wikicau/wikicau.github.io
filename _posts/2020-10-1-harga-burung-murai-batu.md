@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Murai Batu Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-murai-batu.webp)
+
 Daftar Harga Burung Murai Batu
 Desember 5, 2019
 Harga Burung Murai Batu by Wikicau.com

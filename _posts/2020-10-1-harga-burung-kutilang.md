@@ -4,9 +4,8 @@ title: "Daftar Harga Burung Kutilang Bulan Ini"
 categories: [Harga Burung]
 ---
 
-Daftar Harga Burung Kutilang
-November 15, 2019
-Harga Burung Kutilang by Wikicau.com
+![](/images/harga-burung-kutilang.webp)
+
 Di Indonesia banyak sekali jenis burung kicau dari berbagai daerah, namun kali ini saya akan membahas mengenai salah satu yang paling populer dikalangan pecinta burung kicau.
 
 Burung Kutilang, merupakan burung kicau yang memiliki suara yang unik dan juga beragam.

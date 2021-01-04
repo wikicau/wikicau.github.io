@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Kolibri Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-kolibri.webp)
+
 Burung Kolibri merupakan bukan endemik asli Indonesia, burung ini sebagian besar hidup di daratan Amerika Utara dan Amerika Selatan.
 
 Banyak pecinta burung kicau terpesona dengan keindahan bulu burung yang memiliki panjang tubuh rata-rata 6 cm ini.

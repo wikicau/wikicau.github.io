@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Beo Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-beo.webp)
+
 Mendengar nama burung Beo pasti kamu juga sudah tidak asing lagi, burung ini sangat dikenal dimasyarakat.
 
 Bukan hanya dikalangan pecinta burung kicau, burung Beo juga sangat dikenal dikalangan masyarakat umum.

@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Kepodang Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-kepodang.webp)
+
 Jenis burung kicau di Indonesia memang sangat beragam, hal ini tentunya menjadikan para pecinta burung semakin bersemangat untuk memelihara berbagai jenis burung kicau.
 
 Burung kicau yang memiliki suara lantang dan gacoer juga beragam jenisnya, salah satu yang dikenal adalah burung Kepodang.

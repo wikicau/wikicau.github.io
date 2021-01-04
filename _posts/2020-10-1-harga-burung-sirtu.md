@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Sirtu Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-sirtu.webp)
+
 Burung Sirtu merupakan salah satu jenis burung kicau yang namanya sudah tidak asing lagi dikalangan pecinta burung kicau.
 
 Burung jenis ini memiliki warna hijau terang dengan warna putih dibagian sayapnya serta memiliki mata kecil dengan warna hitam pekat.

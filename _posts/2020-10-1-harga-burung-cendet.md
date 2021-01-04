@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Cendet Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-cendet.webp)
+
 Burung Cendet merupakan burung kicau yang namanya sudah tidak asing dikalangan pecinta burung kicau, burung ini memiliki banyakl sekali jenisnya.
 
 Namun semua jenis Cendet jika akan dijadikan sebagai burung kontes haruslah yang memiliki suara merdu nyaring dan tentunya gacor.

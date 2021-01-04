@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Macaw Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-macaw.webp)
+
 Bagi kalangan pecinta burung, pasti sudah sangat mengenal jenis burung yang satu ini.
 
 Burung Macaw merupakan salah satu burung yang memiliki harga tinggi.

@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Elang Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-elang.webp)
+
 Karena perawakannya yang gagah, Burung Elang dipandang sebagai salah satu burung yang eksotis.
 
 Dilihat dari tampilan fisiknya saja, burung elang sudah sangat menarik.

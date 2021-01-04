@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Parkit Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-parkit.webp)
+
 Harga Burung Parkit bisa dikatakan cukup stabil jika dibandingkan dengan harga burung jenis lainnya.
 
 Namun bukan berarti harga Burung Parkit tidak mengalami naik-turun.

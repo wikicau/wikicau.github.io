@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Tledekan Gunung Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![Daftar Harga Burung Tledekan Gunung Bulan Ini](/images/harga-burung-tledekan-gunung.webp)
+
 Harga burung kicau dipasaran memang sangat beragam tergantung dari jenis burung dan juga kemampuan burung tersebut.
 
 Berdasarkan hal ini, saya akan membagikan daftar harga salah satu jenis burung kicau yaitu burung Tledekan Gunung.

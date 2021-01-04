@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Sikatan Londo Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-sikatan-londo.webp)
+
 Burung Sikatan Londo atau nama lainnya adalah Nigthingale merupakan jenis burung yang memiliki habitat asli di bagian Utara Amerika.
 
 Namun banyak mengalami perkembangan dari mulai benua Eropa sampai ke Asia, dan termasuk juga Asia Tenggara.

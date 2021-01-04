@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Sogok Ontong Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-sogok-ontong.webp)
+
 Sebagian besar para pecinta burung kicau sudah pernah mendengar nama burung kicau yang satu ini.
 
 Burung Sogok Ontong merupakan burung kicau yang sudah tidak diragukan lagi kemampuan nya.

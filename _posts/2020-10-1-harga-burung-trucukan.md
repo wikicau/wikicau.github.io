@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Trucukan Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![Daftar Harga Burung Trucukan Bulan Ini](/images/harga-burung-trucukan.webp)
+
 Burung Trucukan merupakan salah satu jenis burung kicau, burung Trucukan sendiri masih merupakan kerabat dari burung-burung Cucak lainnya seperti burung Cucak Rawa, Cucak Kelinci dan juga Cucak Gunung.
 
 Di tiap daerah burung Trucukan memiliki julukan yang berbeda-beda, diantaranya di Sunda burung ini dikenal dengan nama burung Jogjog, sedangkan di daerah Jawa burung ini disebut burung Trucukan.

@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Anis Merah Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-anis-merah.webp)
+
 Burung Anis Merah merupakan salah satu dari banyak nya jenis Burung Anis, Burung Anis Merah memiliki beberapa perbedaan dengan jenis Burung Anis lainnya seperti Anis Kembang, Anis Biru dan juga Anis Batu.
 
 Ukuran tubuh Burung Anis Merah memiliki panjang sekitar 20 sampai dengan 25 cm, dengan berat rata-rata 45 sampai dengan 70 gram.

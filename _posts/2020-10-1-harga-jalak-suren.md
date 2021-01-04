@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Jalak Suren Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![Daftar Harga Burung Jalak Suren Bulan Ini](/images/harga-jalak-suren.webp)
+
 Jika anda sudah lama menekuni hobi burung kicau, maka anda pasti setuju bahwa Jalak Suren merupakan salah satu burung kicau terpopuler.
 
 Bagaimana tidak, hampir di setiap rumah orang yang hobi burung kicau, pasti ada burung Jalak Suren.

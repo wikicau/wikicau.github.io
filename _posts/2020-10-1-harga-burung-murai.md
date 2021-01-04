@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Murai Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-murai.webp)
+
 Harga Burung Murai sangat bervariasi.
 
 Ada Burung Murai yang harganya cukup murah, ada juga yang sangat mahal hingga jutaan. Tergantung dari jenis Burung Murai tersebut.

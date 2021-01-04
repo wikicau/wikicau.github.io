@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Jalak Nias Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-jalak-nias.webp)
+
 Di Indonesia banyak jenis burung Jalak, ada Jalak Bali, Jalak Kebo ada juga yang namanyan Jalak Nias.
 
 Nah, pada kesempatan kali ini, saya akan memberikan beberapa ulasan mengenai salah satu jenis burung Jalak tersebut yaitu Jalak Nias.

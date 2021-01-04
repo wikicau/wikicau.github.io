@@ -4,6 +4,8 @@ title: "Daftar Harga Burung Kenari Bulan Ini"
 categories: [Harga Burung]
 ---
 
+![](/images/harga-burung-kenari.webp)
+
 Harga Burung Kenari cukup bervariasi, tergantung dari jenis.
 
 Karena seperti yang kita ketahui, Burung Kenari terbagi ke dalam beberapa jenis.

@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Cililin Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-cililin.webp)
+![Daftar Harga Burung Cililin Bulan Ini](/images/harga-burung-cililin.webp)
 
 Burung Cililin merupakan burung kicau yang mejadi salah satu daftar paling dicari oleh banyak pecinta burung kicau.
 

@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Murai Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-murai.webp)
+![Daftar Harga Burung Murai Bulan Ini](/images/harga-burung-murai.webp)
 
 Harga Burung Murai sangat bervariasi.
 

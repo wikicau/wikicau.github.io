@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Cucak Ijo Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-cucak-ijo.webp)
+![Daftar Harga Burung Cucak Ijo Bulan Ini](/images/harga-burung-cucak-ijo.webp)
 
 Salah satu burung kicau yang paling dikenal dan menjadi favorit banyak pecinta burung kicau adalah burung Cucak Ijo.
 

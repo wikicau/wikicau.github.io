@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Kolibri Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-kolibri.webp)
+![Daftar Harga Burung Kolibri Bulan Ini](/images/harga-burung-kolibri.webp)
 
 Burung Kolibri merupakan bukan endemik asli Indonesia, burung ini sebagian besar hidup di daratan Amerika Utara dan Amerika Selatan.
 

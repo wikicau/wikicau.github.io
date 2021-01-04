@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Blackthroat Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-blackthroat.webp)
+![Daftar Harga Burung Blackthroat Bulan Ini](/images/harga-burung-blackthroat.webp)
 
 Burung kicau import yang menjadi salah satu burung import dengan harga tinggi adalah burung Blackthroat.
 

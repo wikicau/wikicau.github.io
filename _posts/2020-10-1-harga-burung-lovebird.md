@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Lovebird Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-lovebird.webp)
+![Daftar Harga Burung Lovebird Bulan Ini](/images/harga-burung-lovebird.webp)
 
 Harga Burung Lovebird selalu berubah-ubah setiap bulannya.
 

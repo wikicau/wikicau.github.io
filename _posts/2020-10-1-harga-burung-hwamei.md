@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Hwamei Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-hwamei.webp)
+![Daftar Harga Burung Hwamei Bulan Ini](/images/harga-burung-hwamei.webp)
 
 Burung kicau semakin populer dikalangan masyarakat Indonesia, bukan hanya orang dewasa.
 

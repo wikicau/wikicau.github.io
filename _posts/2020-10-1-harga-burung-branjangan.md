@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Branjangan Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-branjangan.webp)
+![Daftar Harga Burung Branjangan Bulan Ini](/images/harga-burung-branjangan.webp)
 
 Salah satu burung kicau yang cukup dikenal dikalangan pecinta burung kicau adalah burung Branjangan.
 

@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Kapas Tembak Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-kapas-tembak.webp)
+![Daftar Harga Burung Kapas Tembak Bulan Ini](/images/harga-burung-kapas-tembak.webp)
 
 Salah satu burung kicau yang memiliki harga terjangkau adalah burung Kapas Tembak, burung ini bisa menjadi daftar pilihan kamu untuk menghiasi rumah kamu dengan burung kicau.
 

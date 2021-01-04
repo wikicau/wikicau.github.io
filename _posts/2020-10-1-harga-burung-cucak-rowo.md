@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Cucak Rowo Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-cucak-rowo.webp)
+![Daftar Harga Burung Cucak Rowo Bulan Ini](/images/harga-burung-cucak-rowo.webp)
 
 Jenis burung di Indonesia memang sangat banyak dan beragam, dari burung hias sampai dengan burung kicau yang bisa dijadikan ajang pertandingan.
 

@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Kenari Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-kenari.webp)
+![Daftar Harga Burung Kenari Bulan Ini](/images/harga-burung-kenari.webp)
 
 Harga Burung Kenari cukup bervariasi, tergantung dari jenis.
 

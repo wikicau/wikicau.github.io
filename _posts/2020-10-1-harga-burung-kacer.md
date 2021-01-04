@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Kacer Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-kacer.webp)
+![Daftar Harga Burung Kacer Bulan Ini](/images/harga-burung-kacer.webp)
 
 Harga Burung Kacer selalu berubah-ubah setiap bulannya.
 

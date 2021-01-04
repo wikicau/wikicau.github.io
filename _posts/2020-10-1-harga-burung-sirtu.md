@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Sirtu Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-sirtu.webp)
+![Daftar Harga Burung Sirtu Bulan Ini](/images/harga-burung-sirtu.webp)
 
 Burung Sirtu merupakan salah satu jenis burung kicau yang namanya sudah tidak asing lagi dikalangan pecinta burung kicau.
 

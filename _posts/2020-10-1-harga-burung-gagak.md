@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Gagak Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-gagak.webp)
+![Daftar Harga Burung Gagak Bulan Ini](/images/harga-burung-gagak.webp)
 
 Burung Gagak merupakan jenis burung yang banyak menimbulkan mitos bukan hanya di Indonesia.
 

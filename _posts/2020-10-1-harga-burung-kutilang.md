@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Kutilang Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-kutilang.webp)
+![Daftar Harga Burung Kutilang Bulan Ini](/images/harga-burung-kutilang.webp)
 
 Di Indonesia banyak sekali jenis burung kicau dari berbagai daerah, namun kali ini saya akan membahas mengenai salah satu yang paling populer dikalangan pecinta burung kicau.
 

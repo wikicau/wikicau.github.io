@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Ciung Batu Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-ciung-batu.webp)
+![Daftar Harga Burung Ciung Batu Bulan Ini](/images/harga-burung-ciung-batu.webp)
 
 Burung Ciung Batu adalah salah satu jenis burung kicau yang cukup digemari oleh para pecinta burung kicau, karena memiliki suara yang bagus.
 

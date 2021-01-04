@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Jalak Bali Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-jalak-bali.webp)
+![Daftar Harga Burung Jalak Bali Bulan Ini](/images/harga-burung-jalak-bali.webp)
 
 Keanekaragaman di Indoneisa memang sangat banyak.
 

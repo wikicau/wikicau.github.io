@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Sogok Ontong Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-sogok-ontong.webp)
+![Daftar Harga Burung Sogok Ontong Bulan Ini](/images/harga-burung-sogok-ontong.webp)
 
 Sebagian besar para pecinta burung kicau sudah pernah mendengar nama burung kicau yang satu ini.
 

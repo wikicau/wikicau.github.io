@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Perkutut Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-perkutut.webp)
+![Daftar Harga Burung Perkutut Bulan Ini](/images/harga-burung-perkutut.webp)
 
 Burung kicau dikalangan masyarakat Indonesia memang semakin meningkat popularitasnya.
 

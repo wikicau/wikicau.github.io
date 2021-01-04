@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Anis Kembang Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-anis-kembang.webp)
+![Daftar Harga Burung Anis Kembang Bulan Ini](/images/harga-burung-anis-kembang.webp)
 
 Anis adalah burung kicau yang memiliki banyak jenis, sama seperti Jalak.
 

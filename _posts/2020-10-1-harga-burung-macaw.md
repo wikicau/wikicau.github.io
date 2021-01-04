@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Macaw Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-macaw.webp)
+![Daftar Harga Burung Macaw Bulan Ini](/images/harga-burung-macaw.webp)
 
 Bagi kalangan pecinta burung, pasti sudah sangat mengenal jenis burung yang satu ini.
 

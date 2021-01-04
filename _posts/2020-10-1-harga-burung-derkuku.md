@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Derkuku Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-derkuku.webp)
+![Daftar Harga Burung Derkuku Bulan Ini](/images/harga-burung-derkuku.webp)
 
 Burung Derkuku atau juga disebut burung Tekukur merupakan burung yang sejenis dengan burung Merpati.
 

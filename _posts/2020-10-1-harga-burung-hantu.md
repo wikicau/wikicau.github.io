@@ -4,7 +4,7 @@ title: "Daftar Harga Burung Hantu Bulan Ini"
 categories: [Harga Burung]
 ---
 
-![](/images/harga-burung-hantu.webp)
+![Daftar Harga Burung Hantu Bulan Ini](/images/harga-burung-hantu.webp)
 
 Burung Hantu awalnya tidak begitu populer sebagai hewan peliharaan.
 

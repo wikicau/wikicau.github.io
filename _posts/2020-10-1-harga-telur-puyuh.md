@@ -4,6 +4,8 @@ title: "Daftar Harga Telur Burung Puyuh"
 categories: [Harga Burung]
 ---
 
+![Daftar Harga Telur Burung Puyuh](/images/harga-telur-puyuh.webp)
+
 Harga telur puyuh terkadang mengalami naik dan turun seperti telur ayam.
 
 Terutama pada hari-hari tertentu, misalnya lebaran dan hari besar lainnya.

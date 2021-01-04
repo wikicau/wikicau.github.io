@@ -4,6 +4,8 @@ title: "10 Jenis Burung Lovebird dengan Harga Termahal"
 categories: [Harga Burung]
 ---
 
+![10 Jenis Burung Lovebird dengan Harga Termahal](/images/lovebird-termahal.webp)
+
 Burung cinta atau Lovebird adalah burung yaang memiliki ukuran kecil antara 13 sampai dengan 17 cm saja dan berat berat 40 hingga 60 gram.
 
 Jenis burung ini dinamakan lovebird karena berdasarkan pengamatan perilaku burung ini sangat penuh kasih sayang.

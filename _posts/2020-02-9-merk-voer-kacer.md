@@ -20,7 +20,7 @@ Pada kesempatan kali ini, wikicau akan memberikan rekomendasi merk voer untuk pa
 
 ## 1. Top Song
 
-[Lazada](https://www.lazada.co.id/catalog/?q=top+song&_keyori=ss&from=input&spm=a2o4j.home.search.go.57991559wnCe6u) / [Shopee](https://shopee.co.id/search?keyword=top%20song) / [Tokopedia](https://www.tokopedia.com/search?q=top+song&utm_source=ops&utm_medium=wb&utm_campaign=OpenSearch) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=top+song&from=opensearch&search_source=opensearch)
+Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=top+song&_keyori=ss&from=input&spm=a2o4j.home.search.go.57991559wnCe6u) / [Shopee](https://shopee.co.id/search?keyword=top%20song) / [Tokopedia](https://www.tokopedia.com/search?q=top+song&utm_source=ops&utm_medium=wb&utm_campaign=OpenSearch) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=top+song&from=opensearch&search_source=opensearch)
 
 Rekomendasi merk voer yang pertama adalah Top Song, voer ini menawarkan berbagai manfaat yang baik bagi Burung Kacer.
 
@@ -28,7 +28,7 @@ Top Song sendiri merupakan voer dengan komposisi berupa ekstrak telur, madu, rum
 
 Selain untuk Burung Kacer, voer ini juga bisa kamu gunakan untuk pakan burung jenis lainnya seperti Burung Jalak Suren, Burung Cucak Ijo, Burung Murai dll.
 
-Beberapa manfaat yang didapatkan dari pengguunaan voer ini adalah sebagai berikut:
+Beberapa manfaat yang didapatkan dari penggunaan voer ini adalah sebagai berikut:
 
 - Memperbaiki sistem pencernaan
 - Memenuhi kebutuhan nutrisi harian burung
@@ -43,7 +43,7 @@ Beberapa manfaat yang didapatkan dari pengguunaan voer ini adalah sebagai beriku
 
 ## 2. Insect Mix
 
-[Lazada]() / [Shopee]() / [Tokopedia]() / [Bukalapak]()
+Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=Insect+Mix&_keyori=ss&from=input&spm=a2o4j.searchlist.search.go.5e0d10bccmBdb1) / [Shopee](https://shopee.co.id/search?keyword=insect%20mix) / [Tokopedia](https://www.tokopedia.com/search?st=product&q=Insect%20Mix) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=Insect%20Mix)
 
 Merk voer selanjutnya adalah dengan nama Insect Mix yang kaya akan protein baik bagi Burung Kacer.
 Selain mengandung protein yang tinggi, voer ini juga mengandung omega 3 & 6, mineral, vitamin dll.
@@ -66,7 +66,7 @@ Selain untuk Burung Kacer, voer ini juga sangat cocok untuk jenis burung pemakan
 
 ## 3. SuperFit
 
-[Lazada]() / [Shopee]() / [Tokopedia]() / [Bukalapak]()
+Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=SuperFit&_keyori=ss&from=input&spm=a2o4j.searchlist.search.go.57796cb0HeecwS) / [Shopee](https://shopee.co.id/search?keyword=superfit) / [Tokopedia](https://www.tokopedia.com/search?st=product&q=SuperFit) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=SuperFit)
 
 Rekomendasi pakan voer yang ketiga adalah SuperFit, voer ini menjadi salah satu rekomendasi terbaik karena manfaat yang diberikan juga sangat baik.
 
@@ -80,7 +80,7 @@ Beberapa jenis burung bisa diberikan pakan voer ini diantaranya seperti Burung M
 
 ## 4. Nanjung 105
 
-[Lazada]() / [Shopee]() / [Tokopedia]() / [Bukalapak]()
+Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=Nanjung+105&_keyori=ss&from=input&spm=a2o4j.searchlist.search.go.7639180eLYSLX9) / [Shopee](https://shopee.co.id/search?keyword=nanjung%20105) / [Tokopedia](https://www.tokopedia.com/search?st=product&q=Nanjung%20105) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=Nanjung%20105)
 
 Nanjung 105 juga salah satu rekomendasi merk voer yang bagus untuk Burung Kacer peliharaan kamu di rumah.
 
@@ -91,7 +91,7 @@ Selain Burung Kacer, voer ini juga cocok untuk Burung Anis dan juga Burung Cucak
 
 ## 5. Evolution Kacer Food Fighter
 
-[Lazada]() / [Shopee]() / [Tokopedia]() / [Bukalapak]()
+Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=Evolution+Kacer+Food+Fighter&_keyori=ss&from=input&spm=a2o4j.searchlist.search.go.52d96e21qaJCqQ) / [Shopee](https://shopee.co.id/search?keyword=evolution%20kacer%20food%20fighter) / [Tokopedia](https://www.tokopedia.com/search?st=product&q=Evolution%20Kacer%20Food%20Fighter) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=Evolution%20Kacer%20Food%20Fighter)
 
 Voer merk Evolution Kacer Food Fighter juga masuk sebagai daftar voer terbaik untuk Burung Kacer versi wikicau.
 
@@ -116,7 +116,7 @@ Manfaat penting lainnya adalah sebagai berikut:
 
 ## 6. Super Power
 
-[Lazada]() / [Shopee]() / [Tokopedia]() / [Bukalapak]()
+Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=Super+Power&_keyori=ss&from=input&spm=a2o4j.searchlist.search.go.52e77d0fiPrZln) / [Shopee](https://shopee.co.id/search?keyword=super%20power) / [Tokopedia](https://www.tokopedia.com/search?st=product&q=Super%20Power) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=Super%20Power)
 
 Sama seperti merk voer sebelumnya diatas, voer ini juga memberikan banyak manfaat bagi Burung Kacer dan beberapa jenis burung pemakan serangga lainnya.
 
@@ -137,7 +137,7 @@ Untuk manfaatnya sendiri beberapa diantaranya adalah sebagai berikut:
 
 ## 7. Prima Voer Cendet
 
-[Lazada]() / [Shopee]() / [Tokopedia]() / [Bukalapak]()
+Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=Prima+Voer+Cendet&_keyori=ss&from=input&spm=a2o4j.searchlist.search.go.5ce42078ZnO6o0) / [Shopee](https://shopee.co.id/search?keyword=prima%20voer%20cendet) / [Tokopedia](https://www.tokopedia.com/search?st=product&q=Prima%20Voer%20Cendet) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=Prima%20Voer%20Cendet)
 
 Merk selanjutnya adalah Prima Voer Cendet, meskipun namanya berkaitan dengan Burung Cendet namun voer ini juga bisa digunakan untuk beberapa jenis burung.
 Salah satunya adalah Burung kacer serta jenis burung pemakan serangga lainnya seperti Burung Murai, Burung Pleci dan masih banyak lagi.
@@ -152,7 +152,7 @@ Berikan voer ini secara teratur pada burung kesangan kamu agar mendapatkan hasil
 
 ## 8. Fancy 9 Star
 
-[Lazada]() / [Shopee]() / [Tokopedia]() / [Bukalapak]()
+Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=Fancy+9+Star&_keyori=ss&from=input&spm=a2o4j.searchlist.search.go.4be87ff4PFnBll) / [Shopee](https://shopee.co.id/search?keyword=fancy%209%20star) / [Tokopedia](https://www.tokopedia.com/search?st=product&q=Fancy%209%20Star) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=Fancy%209%20Star)
 
 Fancy 9 Star mengandung berbagai komponen yang baik bagi Burung Kacer seperti White fish meal, cooked yellow corn, corn gluten meal dll.
 
@@ -174,7 +174,7 @@ Jika kamu tertarik, untuk pemakaiannya untuk burung yang sedang kurang fit adala
 
 ## 9. Top Fighter Kacer
 
-[Lazada]() / [Shopee]() / [Tokopedia]() / [Bukalapak]()
+Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=Top+Fighter+Kacer&_keyori=ss&from=input&spm=a2o4j.searchlist.search.go.6b9b41dcWYCpKI) / [Shopee](https://shopee.co.id/search?keyword=top%20fighter%20kacer) / [Tokopedia](https://www.tokopedia.com/search?st=product&q=Top%20Fighter%20Kacer) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=Top%20Fighter%20Kacer)
 
 Sama seperti rekomendasi sebelumnya dengan merk Evolution Kacer Food Fighter, merk voer yang satu ini juga dikhusukan untuk Burung Kacer petarung.
 Jika kamu memiliki Burung Kacer lomba, atau kamu yang baru ingin mempersiapkan Burung Kacer lomba juga bisa memberikan voer ini untuk Burung Kacer kamu.
@@ -194,7 +194,7 @@ Voer ini mengandung banyak vitamin A, D3, E dan juga K sehingga memberikan berba
 
 ## 10. Dorodod Edan
 
-[Lazada]() / [Shopee]() / [Tokopedia]() / [Bukalapak]()
+Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=Dorodod+Edan&_keyori=ss&from=input&spm=a2o4j.searchlist.search.go.53405932QBsHIf) / [Shopee](https://shopee.co.id/search?keyword=dorodod%20edan) / [Tokopedia](https://www.tokopedia.com/search?st=product&q=Dorodod%20Edan) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=Dorodod%20Edan)
 
 Rekomendasi merk voer yang terakhrir adalah Dorodod Edan, voer ini bisa diberikan untuk berbagai jenis burung pemakan serangga lainnya.
 

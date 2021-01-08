@@ -8,6 +8,11 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
       </a>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lanjutkan baca</a>
     </article>
   {% endfor %}
 

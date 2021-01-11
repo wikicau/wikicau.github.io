@@ -12,7 +12,7 @@ Untuk kamu yang memiliki Cucak Ijo di rumah, tentunya kamu harus merawatnya deng
 
 Salah satu caranya adalah dengan memberikan asupan pakan yang berkualitas menggunakan beberapa merk voer dibawah ini:
 
-## 1. Voer Ronggolawe: https://shopee.co.id/VOER-RONGGOLAWE-RUMPUT-LAUT-PAKAN-MAKANAN-BURUNG-KACER-MURAI-ANIS-CUCAK-IJO-POKSAY-JALAK-GACOR-BUNYI-i.59114478.3858976362
+## 1. Voer Ronggolawe
 
 Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=Voer+Ronggolawe&_keyori=ss&from=input&spm=a2o4j.home.search.go.57991559T3ddyf) / [Shopee](https://shopee.co.id/search?keyword=voer%20ronggolawe) / [Tokopedia](https://www.tokopedia.com/search?q=Voer+Ronggolawe&utm_source=ops&utm_medium=wb&utm_campaign=OpenSearch) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=Voer+Ronggolawe&from=opensearch&search_source=opensearch)
 
@@ -30,7 +30,7 @@ Voer ini dapat diberikan ke berbagai jenis burung pemakan serangga, termasuk sal
 
 Harganya juga cukup terjangkau, dapat kamu beli di beberapa marketplace Indonesia seperti Tokopedia dan Shopee dengan harga mulai dari Rp 9.000,-an.
 
-## 2. Nanjung 105: https://shopee.co.id/PAKAN-MAKANAN-BURUNG-VOER-PUR-NANJUNG-105-EBOD-JAYA-PREMIUM-MURAI-BATU-KACER-ANIS-CUCAK-IJO-500GR-i.114625993.6860916503
+## 2. Nanjung 105
 
 Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=Nanjung+105&_keyori=ss&from=input&spm=a2o4j.searchlist.search.go.48074d04FdDPJE) / [Shopee](https://shopee.co.id/search?keyword=nanjung%20105) / [Tokopedia](https://www.tokopedia.com/search?st=product&q=Nanjung%20105) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=Nanjung%20105)
 
@@ -51,7 +51,7 @@ Berikut ini adalah beberapa manfaat khusus voer Nanjung 105 untuk Burung Cucak I
 
 Voer ini dibuat dengan mencampurkan beberapa bahan yang disukai oleh Burung Cucak Ijo, antara lain jangkrik, ulat, serangga, buah, vitamin dan beberapa elemen penting lainnya yang baik untuk burung.
 
-## 3. Superfit Super Mantap: https://shopee.co.id/SUPERFIT-SUPER-MANTAP-VOER-PUR-PAKAN-MAKANAN-BURUNG-MURAI-KACER-IJO-WAMBEY-JALAK-CUCAK-CENDET-TRUCUK-i.59114478.6651007356
+## 3. Superfit Super Mantap
 
 Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=Superfit+Super+Mantap&_keyori=ss&from=input&spm=a2o4j.searchlist.search.go.46ef6e21LX80rp) / [Shopee](https://shopee.co.id/search?keyword=superfit%20super%20mantap) / [Tokopedia](https://www.tokopedia.com/search?st=product&q=Superfit%20Super%20Mantap) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=Superfit%20Super%20Mantap)
 

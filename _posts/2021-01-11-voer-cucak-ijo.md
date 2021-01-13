@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Merk Voer yang Bagus untuk Burung Cucak Ijo"
-categories: [Suara Burung]
+categories: [Tips Burung]
 ---
 
 Cucak Ijo merupakan salah satu jenis burung kicau yang selalu ramai penggemarnya di Indonesia.

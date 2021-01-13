@@ -26,7 +26,7 @@ Jadi kamu bisa stok dan memberikannya ke Burung Kolibri kesayangan setiap hari.
 
 Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=V-Nectar&_keyori=ss&from=input&spm=a2o4j.home.search.go.579915597Vdb8z) / [Shopee](https://shopee.co.id/search?keyword=v-nectar) / [Tokopedia](https://www.tokopedia.com/search?st=product&q=V-Nectar&navsource=home) / [Bukalapak](https://www.bukalapak.com/products?from=omnisearch&from_keyword_history=false&search%5Bkeywords%5D=V-Nectar&search_source=omnisearch_keyword&source=navbar)
 
-Merk pakan terbauk untuk Burung Kolibri yang pertama adalah V-Nectar.
+Merk pakan terbauk untuk [Burung Kolibri](https://wikicau.com/kolibri-sepah-raja/) yang pertama adalah V-Nectar.
 
 Nektar buatan ini berisi 250ml nektar per botolnya dan dijual di harga mulai dari 35 ribuan.
 
@@ -40,7 +40,7 @@ Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=Colibri+Sweat+Nectar&_keyo
 
 Berbeda dengan yang pertama, Colibri Sweat Nectar merupakan pakan berbentuk serbuk.
 
-Kamu perlu melarutkannya di dalam air sebelum memberikannya ke Burung Kolibr.
+Kamu perlu melarutkannya di dalam air sebelum memberikannya ke Burung Kolibri.
 
 Harga pakan Kolibri ini mulai dari 4000 rupiah per sachet.
 
@@ -62,7 +62,7 @@ Rujak Nektar tersedia dalam dua ukuran kemasan, pertama adalah ukuran kecil yang
 
 Pakan ini cocok diberikan sebagai pakan harian Burung Kolibri untuk menggantikan kebutuhan nektarnya.
 
-Apalagi jika kamu adalah orang yang sibuk bekerja, maka memberikan Rujan Nektar bisa menjadi solusi.
+Apalagi jika kamu adalah orang yang sibuk bekerja, maka memberikan Rujak Nektar bisa menjadi solusi.
 
 Walaupun Burung Kolibri kamu jarang diberikan kroto tapi sering diberikan Rujak Nektar, burung tidak akan lemas ataupun macet bunyi.
 
@@ -80,7 +80,7 @@ Nah, brand ini juga memiliki produk khusus untuk Burung Kolibr, yaitu Nectar Nut
 
 Sama seperti namanya, ini adalah pakan khusus Kolibri berupa nektar buatan yang disukai oleh burung.
 
-Nektar ini mengandung ekstra susu dan juga gingseng, sehingga sangat baik untuk kesehatan Burung Kolibri milik Sobat Wikicau.
+Nektar ini mengandung ekstra susu dan juga gingseng, sehingga sangat baik untuk kesehatan Burung Kolibri milik [Sobat Wikicau](https://wikicau.com/).
 
 Pakan merk ini dijual mulai dari 26 ribuan saja.
 

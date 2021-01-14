@@ -4,7 +4,7 @@ title: "Download Suara Burung Hantu Terbaru"
 categories: [Suara Burung]
 ---
 
-![](/images/download-suara-burung-hantu.webp)
+![Download Suara Burung Hantu](/images/download-suara-burung-hantu.webp)
 
 Suara Burung hantu bagi sebagian orang terkesan menyeramkan.
 

@@ -4,7 +4,7 @@ title: Download Suara Burung Cucak Ijo
 categories: [Suara Burung]
 ---
 
-![](/images/suara-cucak-ijo.webp)
+![Download Suara Burung Cucak Ijo](/images/suara-cucak-ijo.webp)
 
 Cucak Ijo merupakan salah satu jenis burung kicau dengan ciri fisik yang mudah untuk dikenali.
 

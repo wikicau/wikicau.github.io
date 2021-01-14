@@ -4,7 +4,7 @@ title: Download Suara Burung Kenari
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-kenari.webp)
+![Download Suara Burung Kenari](/images/suara-burung-kenari.webp)
 
 Jika anda adalah orang yang sering berkunjung ke Wikicau, tentu pasti tahu bahwa Kenari adalah salah satu jenis burung yang sering kami bahas.
 

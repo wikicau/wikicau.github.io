@@ -4,7 +4,7 @@ title: Download Suara Burung Samyong
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-samyong.webp)
+![Download Suara Burung Samyong](/images/suara-burung-samyong.webp)
 
 Jika dibandingkan dengan Lovebird, Jalak suren dan Kacer, mungkin nama Burung Samyong tidak sepopuler mereka.
 

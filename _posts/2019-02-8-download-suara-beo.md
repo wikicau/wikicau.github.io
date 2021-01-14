@@ -4,7 +4,7 @@ title: "Download Suara Burung Beo Gacor Alami dan Bicara"
 categories: [Suara Burung]
 ---
 
-![](/images/download-suara-beo.webp)
+![Download Suara Burung Beo Gacor Alami dan Bicara](/images/download-suara-beo.webp)
 
 Saat ini memaster burung dengan suara mp3 adalah hal yang lumrah.
 

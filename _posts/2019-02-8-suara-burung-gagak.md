@@ -4,7 +4,7 @@ title: "Download Suara Burung Gagak untuk Isian dan Masteran"
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-gagak.webp)
+![Download Suara Burung Gagak](/images/suara-burung-gagak.webp)
 
 Berdasarkan banyak penelitian, Gagak merupakan burung dengan tingkat kecerdasan yang tinggi.
 

@@ -4,7 +4,7 @@ title: "Download Suara Burung Blackthroat Gacor untuk Masteran"
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-blackthroat.webp)
+![Download Suara Burung Blackthroat](/images/suara-burung-blackthroat.webp)
 
 Ada beberapa cara yang biasanya orang gunakan untuk memaster Burung Blackthoat.
 

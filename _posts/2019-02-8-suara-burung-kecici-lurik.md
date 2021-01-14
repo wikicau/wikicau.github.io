@@ -4,7 +4,7 @@ title: Download Suara Burung Kecici Lurik
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-kecici-lurik.webp)
+![Download Suara Burung Kecici Lurik](/images/suara-burung-kecici-lurik.webp)
 
 Setiap burung kicau memiliki karakteristik suara yang berbeda-beda.
 

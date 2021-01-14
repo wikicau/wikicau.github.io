@@ -4,7 +4,7 @@ title:  Download Suara Burung Jalak Suren Full Isian
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-jalak-suren.webp)
+![Download Suara Burung Jalak Suren](/images/suara-burung-jalak-suren.webp)
 
 Suara Burung Jalak Suren terkenal memiliki berbagai macam variasi yang unik dan bagus.
 

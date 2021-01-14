@@ -4,7 +4,7 @@ title: "Download Suara Burung Kutilang Emas untuk Pikat"
 categories: [Suara Burung]
 ---
 
-![](/images/download-suara-kutilang-emas.webp)
+![Download Suara Burung Kutilang Emas](/images/download-suara-kutilang-emas.webp)
 
 Kutilang Emas disebut demikian karena memang memiliki bulu berwarna kuning-keemasan.
 

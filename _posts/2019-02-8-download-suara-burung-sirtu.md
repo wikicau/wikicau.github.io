@@ -4,7 +4,7 @@ title: "Download Suara Burung Sirtu Gacor, Betina untuk Pikat"
 categories: [Suara Burung]
 ---
 
-![](/images/download-suara-burung-sirtu.webp)
+![Download Suara Burung Sirtu](/images/download-suara-burung-sirtu.webp)
 
 Burung Sirtu merupakan salah satu jenis burung kicau berukuran kecil yang cukup digemari di Indonesia.
 

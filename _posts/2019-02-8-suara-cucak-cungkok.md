@@ -4,7 +4,7 @@ title: Download Suara Burung Cucak Cungkok
 categories: [Suara Burung]
 ---
 
-![](/images/suara-cucak-cungkok.webp)
+![Download Suara Burung Cucak Cungkok](/images/suara-cucak-cungkok.webp)
 
 Cucak Cungkok memiliki ciri fisik yang unik.
 

@@ -4,7 +4,7 @@ title: Download Suara Burung Pancawarna
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-pancawarna.webp)
+![Download Suara Burung Pancawarna](/images/suara-burung-pancawarna.webp)
 
 Suara Burung Pancawarna sudah lama dipercaya oleh kicaumania di Indonesia untuk memaster burung kicau lainnya.
 

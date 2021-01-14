@@ -4,7 +4,7 @@ title: Download Suara Burung Ruak-ruak
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-ruak-ruak.webp)
+![Download Suara Burung Ruak-ruak](/images/suara-burung-ruak-ruak.webp)
 
 Burung Ruak-ruak dapat ditemukan dengan mudah di beberapa negara Asia, mulai dari Filipina, India, Cina, hingga Indonesia.
 

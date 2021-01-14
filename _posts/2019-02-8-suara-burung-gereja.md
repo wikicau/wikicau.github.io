@@ -4,7 +4,7 @@ title: Download Suara Burung Gereja Tarung Untuk Masteran Mp3
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-gereja.webp)
+![Download Suara Burung Gereja](/images/suara-burung-gereja.webp)
 
 Suara Burung Gereja sudah menjadi salah satu suara yang sering dijadikan sebagai masteran untuk berbagai burung kicau.
 

@@ -4,7 +4,7 @@ title: Download Suara Burung Lovebird
 categories: [Suara Burung]
 ---
 
-![](/images/suara-lovebird.webp)
+![Download Suara Burung Lovebird](/images/suara-lovebird.webp)
 
 Suara Burung Lovebird cenderung monoton jika dibandingkan burung kicau lain seperti Jalak Suren, Murai Batu, dan Kacer.
 

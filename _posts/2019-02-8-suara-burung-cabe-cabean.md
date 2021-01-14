@@ -4,7 +4,7 @@ title: "Download Suara Burung Cabe-cabean untuk Masteran"
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-cabe-cabean.webp)
+![Download Suara Burung Cabe-cabean](/images/suara-burung-cabe-cabean.webp)
 
 Burung Cabe-cabean merupakan salah satu jenis burung kecil yang cukup banyak dipelihara dirumah.
 

@@ -4,7 +4,7 @@ title: Download Suara Burung Tledekan
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-tledekan.webp)
+![Download Suara Burung Tledekan](/images/suara-burung-tledekan.webp)
 
 Dari hari ke hari jumlah orang yang menekuni hobi burung kicau kian meningkat.
 

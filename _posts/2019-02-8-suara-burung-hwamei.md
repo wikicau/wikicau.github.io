@@ -4,7 +4,7 @@ title: "Download Suara Burung Hwamei (Wambi) Mp3"
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-hwamei.webp)
+![Download Suara Burung Hwamei](/images/suara-burung-hwamei.webp)
 
 Burung Hwamei cukup populer di kalangan pecinta Indonesia.
 

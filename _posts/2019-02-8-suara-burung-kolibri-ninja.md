@@ -4,7 +4,7 @@ title: Download Suara Burung Kolibri Ninja
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-kolibri-ninja.webp)
+![Download Suara Burung Kolibri Ninja](/images/suara-burung-kolibri-ninja.webp)
 
 Suara Burung Kolibri Ninja dikenal memiliki lengkingan yang panjang dan bagus untuk didengar.
 

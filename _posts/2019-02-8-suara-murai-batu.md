@@ -4,7 +4,7 @@ title: Download Suara Burung Murai Batu
 categories: [Suara Burung]
 ---
 
-![](/images/suara-murai-batu.webp)
+![Download Suara Burung Murai Batu](/images/suara-murai-batu.webp)
 
 Sudah tidak perlu diragukan lagi bahwa Murai Batu adalah salah satu burung kicau paling populer di Indonesia.
 

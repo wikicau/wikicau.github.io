@@ -4,7 +4,7 @@ title:  Download Suara Burung Tengkek Udang
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-tengkek-udang.webp)
+![Download Suara Burung Tengkek Udang](/images/suara-burung-tengkek-udang.webp)
 
 Suara Burung Raja Udang atau yang sering disebut juga Tengkek Udang ini sangat nyaring dan rapat.
 

@@ -4,7 +4,7 @@ title: Download Suara Burung Kepodang
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-kepodang.webp)
+![Download Suara Burung Kepodang](/images/suara-burung-kepodang.webp)
 
 Burung Kepodang memiliki ciri fisik yang cukup mudah untuk dikenali.
 

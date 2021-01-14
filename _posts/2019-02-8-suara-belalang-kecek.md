@@ -4,7 +4,7 @@ title: "Download Suara Belalang Kecek Kualitas Terbaik"
 categories: [Suara Burung]
 ---
 
-![](/images/suara-belalang-kecek.webp)
+![Download Suara Belalang Kecek](/images/suara-belalang-kecek.webp)
 
 Untuk Sobat Wikicau yang terhitung baru bermain burung kicau, mungkin masih asing dengan belalang kecek atau walang kecek.
 

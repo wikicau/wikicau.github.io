@@ -4,7 +4,7 @@ title: Download Suara Burung Kerak Basi
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-kerak-basi.webp)
+![Download Suara Burung Kerak Basi](/images/suara-burung-kerak-basi.webp)
 
 Jika dibandingkan dengan ukuran tubuhnya, suara Burung Kerak Basi bisa dibilang lantang dan keras.
 

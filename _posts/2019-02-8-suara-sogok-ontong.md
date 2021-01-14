@@ -4,7 +4,7 @@ title: Download Suara Burung Sogok Ontong
 categories: [Suara Burung]
 ---
 
-![](/images/suara-sogok-ontong.webp)
+![Download Suara Burung Sogok Ontong](/images/suara-sogok-ontong.webp)
 
 Selain [Kolibri](https://wikicau.com/suara-burung-kolibri-ninja/), ada lagi satu jenis burung kicau yang juga gemar memakan nektar, yaitu Sogok Ontong.
 

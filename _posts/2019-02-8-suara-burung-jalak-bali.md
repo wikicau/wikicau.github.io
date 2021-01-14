@@ -4,7 +4,7 @@ title: "Download Suara Burung Jalak Bali Durasi Panjang"
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-jalak-bali.webp)
+![Download Suara Burung Jalak Bali](/images/suara-burung-jalak-bali.webp)
 
 Diantara semua jenis Burung Jalak, Jalak Bali bisa dikatakan adalah spesies yang unik.
 

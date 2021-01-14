@@ -4,7 +4,7 @@ title: Download Suara Burung Poksay
 categories: [Suara Burung]
 ---
 
-![](/images/suara-poksay-hongkong.webp)
+![Download Suara Burung Poksay](/images/suara-poksay-hongkong.webp)
 
 Halo, Sobat Wikicau.
 

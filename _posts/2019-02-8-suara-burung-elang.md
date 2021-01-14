@@ -4,7 +4,7 @@ title: "Download Suara Burung Elang Jernih & Kualitas Tinggi"
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-elang.webp)
+![Download Suara Burung Elang](/images/suara-burung-elang.webp)
 
 Salah satu jenis burung predator yang paling terkenal tentu saja adalah Burung Elang.
 

@@ -4,7 +4,7 @@ title: "Download Suara Burung Merpati atau Dara"
 categories: [Suara Burung]
 ---
 
-![](/images/download-suara-merpati.webp)
+![Download Suara Burung Merpati](/images/download-suara-merpati.webp)
 
 Burung Merpati termasuk salah satu jenis burung yang paling populer di Indonesia.
 

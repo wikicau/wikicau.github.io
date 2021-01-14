@@ -4,7 +4,7 @@ title: Download Suara Burung Sikatan Londo
 categories: [Suara Burung]
 ---
 
-![](/images/suara-sikatan-londo.webp)
+![Download Suara Burung Sikatan Londo](/images/suara-sikatan-londo.webp)
 
 Salah satu ciri Sikatan Londo yang paling terkenal adalah selalu mengembangkan ekornya ketika berkicau.
 

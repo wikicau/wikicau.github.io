@@ -4,7 +4,7 @@ title: Download Suara Burung Prenjak
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-prenjak.webp)
+![Download Suara Burung Prenjak](/images/suara-burung-prenjak.webp)
 
 Burung Prenjak adalah burung yang tidak pernah sepi peminatnya.
 

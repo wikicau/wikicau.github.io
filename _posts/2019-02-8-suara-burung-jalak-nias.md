@@ -4,7 +4,7 @@ title: "Download Suara Burung Jalak Nias Mp3 untuk Masteran"
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-jalak-nias.webp)
+![Download Suara Burung Jalak Nias](/images/suara-burung-jalak-nias.webp)
 
 Sebelumnya Wikicau sudah membagikan [suara Burung Jalak Suren](https://wikicau.com/suara-burung-jalak-suren/).
 

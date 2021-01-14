@@ -4,7 +4,7 @@ title: "Download Suara Burung Gelatik Mp3 untuk Masteran"
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-gelatik.webp)
+![Download Suara Burung Gelatik](/images/suara-burung-gelatik.webp)
 
 Burung Gelatik termasuk ke dalam burung kicau dengan ukuran tubuh yang kecil.
 

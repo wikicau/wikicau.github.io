@@ -4,7 +4,7 @@ title: Download Suara Burung Mantenan
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-mantenan.webp)
+![Download Suara Burung Mantenan](/images/suara-burung-mantenan.webp)
 
 Halo Sobat Wikicau. Kali ini saya akan membagikan file suara Burung Mantenan.
 

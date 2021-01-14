@@ -4,7 +4,7 @@ title: Download Suara Burung Lyrebird
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-lyrebird.webp)
+![Download Suara Burung Lyrebird](/images/suara-burung-lyrebird.webp)
 
 Untuk Sobat Wikicau yang ada di Indonesia, mungkin kurang familiar dengan jenis burung satu ini, yaitu Lyrebird.
 

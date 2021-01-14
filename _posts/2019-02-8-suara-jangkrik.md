@@ -4,7 +4,7 @@ title: Download Suara Jangkrik
 categories: [Suara Burung]
 ---
 
-![](/images/suara-jangkrik.webp)
+![Download Suara Jangkrik](/images/suara-jangkrik.webp)
 
 Bagi sebagian orang, suara jangkrik dirasa mengganggu.
 

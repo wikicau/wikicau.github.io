@@ -4,7 +4,7 @@ title: Download Suara Burung Cucak Biru
 categories: [Suara Burung]
 ---
 
-![](/images/suara-cucak-biru.webp)
+![Download Suara Burung Cucak Biru](/images/suara-cucak-biru.webp)
 
 Kali ini Wikicau akan membagikan suara masteran Burung Cucak Biru.
 

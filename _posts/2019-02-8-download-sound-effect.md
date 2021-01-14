@@ -5,7 +5,7 @@ title: "Download Sound Effect Lucu yang Sering Digunakan YouTuber
 categories: [Suara Burung]
 ---
 
-![](/images/download-sound-effect.webp)
+![Download Sound Effect Lucu yang Sering Digunakan YouTuber](/images/download-sound-effect.webp)
 
 Apakah kamu seorang Youtuber?
 

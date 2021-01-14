@@ -4,7 +4,7 @@ title: Download Suara Burung Pelatuk
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-pelatuk.webp)
+![Download Suara Burung Pelatuk](/images/suara-burung-pelatuk.webp)
 
 Setiap burung yang ada di planet bumi memiliki ciri khas tersendiri, baik dari segi fisik, karakter suara, hingga kebiasaannya.
 

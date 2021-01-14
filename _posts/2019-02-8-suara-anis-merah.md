@@ -4,7 +4,7 @@ title: "Download Suara Burung Anis Merah Gacor untuk Pikat"
 categories: [Suara Burung]
 ---
 
-![](/images/suara-anis-merah.webp)
+![Download Suara Burung Anis Merah](/images/suara-anis-merah.webp)
 
 Suara Anis Merah termasuk unik dan sangat nyaman untuk didengar telinga.
 

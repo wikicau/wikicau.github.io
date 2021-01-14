@@ -4,7 +4,7 @@ title: Download Suara Burung Kapas Tembak
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-kapas-tembak.webp)
+![Download Suara Burung Kapas Tembak](/images/suara-burung-kapas-tembak.webp)
 
 Kapas Tembak merupakan burung yang secara perawakan dan fisik terlihat seperti Cucak Jenggot.
 

@@ -4,7 +4,7 @@ title: "Download Suara Burung Terlengkap di Wikicau"
 categories: [Suara Burung]
 ---
 
-![](/images/download-suara-kutilang.webp)
+![Download Suara Burung Terlengkap](/images/download-suara-kutilang.webp)
 
 Memelihara burung kicau saat ini sudah menjadi hal yang wajar dan banyak sekali peminat burung kicau mulai dari kalangan muda hingga lanjut usia.
 

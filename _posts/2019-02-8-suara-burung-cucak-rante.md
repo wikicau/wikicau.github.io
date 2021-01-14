@@ -4,7 +4,7 @@ title: "Download Suara Burung Cucak Rante untuk Pancingan & Masteran"
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-cucak-rante.webp)
+![Download Suara Burung Cucak Rante](/images/suara-burung-cucak-rante.webp)
 
 Burung Cucak Rante atau terkadang juga disebut sebagai Cucak Ranting merupakan burung dengan tampilan yang mirip seperti Cucak Ijo.
 

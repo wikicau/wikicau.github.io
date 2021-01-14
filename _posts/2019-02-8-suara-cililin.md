@@ -4,7 +4,7 @@ title: Download Suara Burung Cililin
 categories: [Suara Burung]
 ---
 
-![](/images/suara-cililin.webp)
+![Download Suara Burung Cililin](/images/suara-cililin.webp)
 
 Di kalangan kicau mania Indonesia, Cililin adalah burung yang terkenal memiliki tembakan yang melengking.
 

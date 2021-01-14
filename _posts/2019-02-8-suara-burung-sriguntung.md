@@ -4,7 +4,7 @@ title: Download Suara Burung Srigunting
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-srigunting.webp)
+![Download Suara Burung Srigunting](/images/suara-burung-srigunting.webp)
 
 Satu lagi burung unik yang ada di Indonesia, yaitu Srigunting.
 

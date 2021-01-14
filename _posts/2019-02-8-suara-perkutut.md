@@ -4,7 +4,7 @@ title: Download Suara Burung Perkutut
 categories: [Suara Burung]
 ---
 
-![](/images/suara-perkutut.webp)
+![Download Suara Burung Perkutut](/images/suara-perkutut.webp)
 
 Burung Perkutut adalah burung yang cukup unik.
 

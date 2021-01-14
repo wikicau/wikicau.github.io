@@ -4,7 +4,7 @@ title: Download Suara Burung Cucak Keling
 categories: [Suara Burung]
 ---
 
-![](/images/suara-cucak-keling.webp)
+![Download Suara Burung Cucak Keling](/images/suara-cucak-keling.webp)
 
 Banyak yang bilang suara Burung Cucak Keling sangat eksotis.
 

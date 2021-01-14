@@ -4,7 +4,7 @@ title: "Download Suara Burung Cendet Gacor untuk Masteran"
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-cendet.webp)
+![Download Suara Burung Cendet](/images/suara-burung-cendet.webp)
 
 Halo, Sobat Wikicau.
 

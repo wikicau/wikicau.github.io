@@ -4,7 +4,7 @@ title: Download Suara Burung Kolibri Sepah Raja
 categories: [Suara Burung]
 ---
 
-![](/images/suara-kolibri-sepah-raja.webp)
+![Download Suara Burung Kolibri Sepah Raja](/images/suara-kolibri-sepah-raja.webp)
 
 Seperti yang kita ketahui bahwa sebagian besar jenis [Kolibri](https://wikicau.com/?s=kolibri) memang memiliki perpaduan warna bulu yang indah.
 

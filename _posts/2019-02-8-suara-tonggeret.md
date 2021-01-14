@@ -4,7 +4,7 @@ title: Download Suara Tonggeret
 categories: [Suara Burung]
 ---
 
-![](/images/suara-tonggeret.webp)
+![Download Suara Tonggeret](/images/suara-tonggeret.webp)
 
 Tonggeret merupakan serangga yang unik.
 

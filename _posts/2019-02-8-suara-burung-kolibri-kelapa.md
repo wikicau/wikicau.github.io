@@ -4,7 +4,7 @@ title: Download Suara Burung Kolibri Kelapa
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-kolibri-kelapa.webp)
+![Download Suara Burung Kolibri Kelapa](/images/suara-burung-kolibri-kelapa.webp)
 
 Selain [Kolibri Ninja](https://wikicau.com/cara-merawat-kolibri-ninja/), jenis lain dari burung pemakan nektar yang sering dipelihara di Indonesia yaitu Kolibri Kelapa.
 

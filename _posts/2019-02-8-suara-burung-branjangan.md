@@ -4,7 +4,7 @@ title: "Download Suara Burung Branjangan untuk Masteran"
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-branjangan.webp)
+![Download Suara Burung Branjangan](/images/suara-burung-branjangan.webp)
 
 Di dalam dunia burung kicau, ada beberapa jenis burung yang perawatannya mudah dan juga susah.
 

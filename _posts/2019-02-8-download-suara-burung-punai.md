@@ -4,7 +4,7 @@ title: "Download Suara Burung Punai untuk Pikat"
 categories: [Suara Burung]
 ---
 
-![](/images/download-suara-burung-punai.webp)
+![Download Suara Burung Punai](/images/download-suara-burung-punai.webp)
 
 Ada banyak alasan mengapa seseorang memelihara burung.
 

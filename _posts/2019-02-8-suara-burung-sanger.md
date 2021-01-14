@@ -4,7 +4,7 @@ title: Download Suara Burung Sanger
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-sanger.webp)
+![Download Suara Burung Sanger](/images/suara-burung-sanger.webp)
 
 Burung Sanger masih kerabat dekat dengan [Burung Kenari](https://wikicau.com/apakah-kenari-betina-bisa-gacor/), karenanya tidak heran kalau secara fisik kedua jenis burung kicau ini terlihat sama.
 

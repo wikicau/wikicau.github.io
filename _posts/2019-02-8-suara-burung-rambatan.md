@@ -4,7 +4,7 @@ title: Download Suara Burung Rambatan
 categories: [Suara Burung]
 ---
 
-![](/images/suara-burung-rambatan.webp)
+![Download Suara Burung Rambatan](/images/suara-burung-rambatan.webp)
 
 Suara Burung Rambatan sangat cocok digunakan untuk memaster burung-burung dengan karakteristik suara nembak.
 

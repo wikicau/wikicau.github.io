@@ -4,7 +4,7 @@ title: Download Suara Burung Cucak Rowo
 categories: [Suara Burung]
 ---
 
-![](/images/suara-cucak-rowo.webp)
+![Download Suara Burung Cucak Rowo](/images/suara-cucak-rowo.webp)
 
 Di kalangan kicau mania Indonesia, nama Cucak Rowo sangat spesial.
 

@@ -4,7 +4,7 @@ title: Download Suara Burung Manyar
 categories: [Suara Burung]
 ---
 
-![](/images/suara-manyar.webp)
+![Download Suara Burung Manyar](/images/suara-manyar.webp)
 
 Manyar merupakan burung kecil pemakan biji-bijian yang cukup digemari di Indonesia.
 

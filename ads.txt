@@ -447,3 +447,4 @@ vdopia.com, 14913, RESELLER, 49a66ce31a704197
 video.unrulymedia.com, 1923001931, RESELLER
 xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
 yahoo.com, 1881359, RESELLER
+mgid.com, 343529, DIRECT, d4c29acad76ce94f

@@ -6,7 +6,7 @@ categories: [Tips Burung]
 
 Pelatuk sejatinya bukanlah burung kicau yang lazim dipelihara dan dilombakan oleh para kicau mania yang ada di Indonesia.
 
-Namun burung ini biasanya dipelihara hanya untuk menjadi bahan masteran untuk burung lainnya seperti Jalak Suren, Kacer, dan lain-lain.
+Namun burung ini biasanya dipelihara hanya untuk menjadi bahan masteran untuk burung lainnya seperti [Jalak Suren](https://wikicau.com/merawat-jalak-suren/), Kacer, dan lain-lain.
 
 Salah satu karakteristik suara Burung Pelatuk ialah tembakan yang rapat, hampir mirip dengan suara [Burung Gereja](https://wikicau.com/suara-burung-gereja/).
 

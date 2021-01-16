@@ -8,7 +8,7 @@ Pelatuk sejatinya bukanlah burung kicau yang lazim dipelihara dan dilombakan ole
 
 Namun burung ini biasanya dipelihara hanya untuk menjadi bahan masteran untuk burung lainnya seperti Jalak Suren, Kacer, dan lain-lain.
 
-Salah satu karakteristik suara Burung Pelatuk ialah tembakan yang rapat, hampir mirip dengan suara Burung Gereja.
+Salah satu karakteristik suara Burung Pelatuk ialah tembakan yang rapat, hampir mirip dengan suara [Burung Gereja](https://wikicau.com/suara-burung-gereja/).
 
 Karenanya akan menjadi sangat menarik jika dapat ditirukan oleh burung lomba.
 
@@ -30,7 +30,7 @@ Merk voer ini bagus untuk Burung Pelatuk karena terbuat dari bahan-bahan yang di
 
 Beli di: [Lazada](https://www.lazada.co.id/catalog/?q=Nanjung+105&_keyori=ss&from=input&spm=a2o4j.searchlist.search.go.795c5c22tkrHyG) / [Shopee](https://shopee.co.id/search?keyword=nanjung%20105) / [Tokopedia](https://www.tokopedia.com/search?st=product&q=Nanjung%20105&navsource=home,home) / [Bukalapak](https://www.bukalapak.com/products?search%5Bkeywords%5D=Nanjung%20105)
 
-Saya yakin sebagian dari Sobat Wikicau sudah cukup sering mendengar nama merk voer yang satu ini, karena saya juga sering merekomendasikannya di Wikicau.com.
+Saya yakin sebagian dari Sobat Wikicau sudah cukup sering mendengar nama merk voer yang satu ini, karena saya juga sering merekomendasikannya di [Wikicau.com](https://wikicau.com/).
 
 Nanjung 105 dikemas dalam tampilan yang terlihat mewah dan tidak murahan, namun dengan harga jual yang tidak membuat kantong bolong.
 
@@ -48,7 +48,7 @@ Namun kurang lebih ketiganya memiliki khasiat yang sama, yaitu untuk memenuhi ke
 
 Untuk menentukan varian mana yang disukai oleh Burung Pelatuk milik kamu, tidak ada salahnya untuk membeli ketiga varian tersebut kemudian coba berikan pada Pelatuk.
 
-Lalu lihat mana yang sekiranya paling disukai oleh pelatuk kamu.
+Lalu lihat mana yang sekiranya paling disukai oleh Pelatuk kamu.
 
 ## 4. Gold Coin Crumble
 

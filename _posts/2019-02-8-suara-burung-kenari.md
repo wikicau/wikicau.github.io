@@ -51,6 +51,8 @@ Salah satu pakan utama Kenari adalah biji-bijian, jadi wajib diberikan sebagai m
 
 Biji-bijiannya juga cukup mudah untuk didapatkan di toko-toko burung ataupun di toko online.
 
+Baca juga: [5 Merk Pakan Terbaik Khusus untuk Burung Kenari](https://wikicau.com/merk-pakan-kenari/)
+
 ### Berikan EF berupa dedaunan
 
 EF yang cocok diberikan untuk Kenari adalah dedaunan.

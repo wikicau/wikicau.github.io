@@ -199,3 +199,6 @@ Who's That Pokemon Sound Effect [Download](https://bit.ly/2N5fmVR)
 
 {% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sound%20effect/Windows%20xp%20Critical%20Error%20Sound%20effect%20by%20Wikicau.com.mp3" %}
 Windows Critical Error Sound Effect [Download](https://bit.ly/2Y6MRIm)
+
+{% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sound%20effect/Your%20mom%20-%20Sound%20Effect%20by%20Wikicau.com.mp3" %}
+Your Mom Sound Effect [Download](https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sound%20effect/Your%20mom%20-%20Sound%20Effect%20by%20Wikicau.com.mp3)

@@ -23,16 +23,14 @@ Karena kebutuhan itu, makanya kali ini Wikicau akan share beberapa suara atau so
 
 ## Download Sound Effect Lucu yang Sering Digunakan YouTuber
 
-Alarm Beeping Sound
-
 {% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sound%20effect/Alarm-beeping-sound%20by%20Wikicau.com.mp3" %}
-[Download](https://bit.ly/2XoayPi)
+Alarm Beeping Sound [Download](https://bit.ly/2XoayPi)
 
 {% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sound%20effect/Audience-laughing-and-applauding-in-theater%20by%20Wikicau.com.mp3" %}
-[Download](https://bit.ly/2L7AV5q)
+Audience Laughing and Applauding in Theater [Download](https://bit.ly/2L7AV5q)
 
 {% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sound%20effect/Baby%20cry%20sound%20effect%20(long)%20by%20Wikicau.com.mp3" %}
-[Download](https://bit.ly/2Fs4sD7)
+Baby Cry Sound Effect [Download](https://bit.ly/2Fs4sD7)
 
 {% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sound%20effect/Broken%20glass%20sound%20effect%20(high%20quality)_2%20by%20Wikicau.com.mp3" %}
 [Download](https://bit.ly/2Izuu9s)

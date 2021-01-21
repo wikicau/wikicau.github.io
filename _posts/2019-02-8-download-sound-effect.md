@@ -23,6 +23,8 @@ Karena kebutuhan itu, makanya kali ini Wikicau akan share beberapa suara atau so
 
 ## Download Sound Effect Lucu yang Sering Digunakan YouTuber
 
+Alarm Beeping Sound
+
 {% include embed-audio.html src="https://gitlab.com/wikicau/wikicau/-/raw/master/suara/sound%20effect/Alarm-beeping-sound%20by%20Wikicau.com.mp3" %}
 [Download](https://bit.ly/2XoayPi)
 

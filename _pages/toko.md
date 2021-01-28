@@ -18,4 +18,4 @@ Apa yang akan kamu dapatkan:
 
 - Flashdisk baru berukuran 2GB berisi ribuan suara masteran burung kicau (semua file suara yang ada di situs wikicau.com).
 
-Beli di: Shopee
+Beli di: [Shopee](https://shopee.co.id/product/136961725/4178408894/)

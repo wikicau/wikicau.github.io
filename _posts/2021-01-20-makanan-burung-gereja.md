@@ -4,6 +4,8 @@ title: "10 Makanan Burung Gereja Agar Gacor dan Sehat"
 categories: [Tips Burung]
 ---
 
+![Makanan Burung Gereja](/images/Makanan-Burung-Gereja-by-Wikicau.webp)
+
 Burung Gereja adalah burung liar yang hidup di daerah perkotaan, mereka biasanya hinggap di kabel, bangunan, dan tempat-tempat lainnya.
 
 Walaupun termasuk burung liar, namun Burung Gereja juga sering dipelihara oleh kicau mania sebagai bahan untuk memaster burung kicaunya yang lain.

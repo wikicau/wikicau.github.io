@@ -4,6 +4,8 @@ title: "5 Merk Voer Terbaik untuk Burung Pleci"
 categories: [Tips Burung]
 ---
 
+![Merk Voer Terbaik untuk Burung Pleci](/images/Rekomendasi-Merk-Voer-untuk-Burung-Pleci-by-Wikicau.webp)
+
 Pleci adalah burung kecil dengan makanan alami buah-buahan dan serangga.
 
 Namun seperti burung kicau lainnya, ketika dipelihara di dalam sangkar biasanya akan diberikan pakan utama berupa voer.

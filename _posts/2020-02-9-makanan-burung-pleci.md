@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Makanan Burung Pleci"
+title: "Rekomendasi Makanan dan Burung Pleci Agar Gacor"
 categories: [Tips Burung]
 ---
 

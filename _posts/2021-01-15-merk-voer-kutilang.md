@@ -4,6 +4,8 @@ title: "5 Merk Voer yang Bagus untuk Burung Kutilang"
 categories: [Tips Burung]
 ---
 
+![5 Merk Voer yang Bagus untuk Burung Kutilang](/images/Merk-Voer-Burung-Kutilang-by-Wikicau.webp)
+
 Makanan Burung Kutilang di alam liar adalah serangga kecil dan juga buah-buahan.
 
 Namun ketika kita memeliharanya di rumah, tentu akan menjadi hal yang merepotkan jika harus selalu memberikannya serangga ataupun buah-buahan.

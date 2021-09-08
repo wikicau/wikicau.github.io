@@ -4,6 +4,8 @@ title: "5 Merk Pakan Terbaik untuk Burung Kenari"
 categories: [Tips Burung]
 ---
 
+![Merk Pakan Terbaik untuk Burung Kenari](/images/Rekomendasi-Merk-Pakan-Burung-Kenari-by-Wikicau.webp)
+
 Pamor Burung Kenari di antara kicau mania di Indonesia sudah tidak usah diragukan lagi.
 
 Ini merupakan salah satu burung dengan penggemar terbanyak di Indonesia.

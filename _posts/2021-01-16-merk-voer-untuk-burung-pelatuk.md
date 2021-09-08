@@ -4,6 +4,8 @@ title: "5 Merk Voer Terbaik untuk Burung Pelatuk"
 categories: [Tips Burung]
 ---
 
+![5 Merk Voer Terbaik untuk Burung Pelatuk](/images/Merk-Voer-untuk-Burung-Pelatuk-by-Wikicau.webp)
+
 Pelatuk sejatinya bukanlah burung kicau yang lazim dipelihara dan dilombakan oleh para kicau mania yang ada di Indonesia.
 
 Namun burung ini biasanya dipelihara hanya untuk menjadi bahan masteran untuk burung lainnya seperti [Jalak Suren](https://wikicau.com/merawat-jalak-suren/), Kacer, dan lain-lain.

@@ -1,43 +1,63 @@
-name: Wikicau
-author: Admin Wikicau
-description: Tips dan trik memelihara burung kicau
-avatar: /images/wikicau.webp
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: 
-  instagram:
-  linkedin: 
-  pinterest:
-  rss: rss
-  twitter: androbuntuco
-  youtube: channel/UCNDPQGDYpgaglAp7eFBo_sQ
-disqus: wikicau
-google_analytics: UA-125094882-2
-url: http://www.wikicau.com/
-enforce_ssl: https://www.wikicau.com/
-permalink: /:title/
-version: v1.2.0
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: 'highlight'
-sass:
-  style: :compressed # You might prefer to minify using :compressed
+title: Wikicau
+author: GitHub User
+email: miguel-gonzalez@gmx.de
+description: > # this means to ignore newlines until "show_exerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: false # set to true to show excerpts on the homepage
+
+paginate: 1
+paginate_path: "/blog/page:num/"
+
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+# jekyll-dash date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+dash:
+  # the way how dates should be displayed
+  date_format: "%b %-d, %Y"
+
+  # (optional) discqus comment configuration
+  disqus:
+    shortname: bitbrain-github-io
+
+  # generate social links in footer
+  # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
+  social_links:
+    - url: https://twitter.com/bitbrain_
+      icon: twitter-square
+      color: cyan
+    - url: https://bitbrain.itch.io
+      icon: itch-io
+      color: red
+    - url: https://github.com/bitbrain
+      icon: github-square
+      color: purple
+
+  # wether the author box should be displayed
+  show_author: true
+
+  # the animation speed of the scroll-in effect
+  animation_speed: 50
+
+  # wether to enable Right-to-Left support or not
+  rtl: false
+
+  # Replaces the default avatar provider (gravatar)
+  #avatar_source: github
+  #github_username: bitbrain
+  #avatar_source: local
+  #avatar_path: /assets/avatar.png
+
+# Build settings
+theme: jekyll-dash
+
 plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
-include: ['_pages']
-paginate: 10
-paginate_path: /page:num/
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-paginate
+ - liquid-md5
+ - jekyll/tagging
